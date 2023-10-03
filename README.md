@@ -1,8 +1,14 @@
 # GBF-character-scraper
-Web scraper for GBFwiki to get basic information about the characters. Granblue Fantasy content and materials are trademarks and copyrights of Cygames, Inc. or its licensors. All rights reserved.
+Web scraper for GBFwiki to get basic information about the characters.
+
+Granblue Fantasy content and materials are trademarks and copyrights of Cygames, Inc. or its licensors. All rights reserved.
 
 ## Use the dataset on Kaggle!
 This dataset is currently public on [Kaggle](https://www.kaggle.com/datasets/nyaronya/gbf-character-dataset/data)! However you can also download the .csv here on GitHub too.
+
+## Built with
+- jupyter notebook
+- python 3.10.0
 
 ## Overview
 This dataset includes the basic information for every character in the mobile / browser jrpg Granblue Fantasy. The data is scraped from [GBFwiki](https://gbf.wiki/Character_Tier_List/Gamewith/Ratings).

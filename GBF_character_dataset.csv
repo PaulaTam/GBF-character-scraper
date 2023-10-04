@@ -1,806 +1,806 @@
-Rarity,Element,Name,Series,2nd Series,Weapon,2nd Weapon,Race,Type
-SSR,Fire,Michael,Grand,-,Sabre,-,Primal,Attack
-SSR,Fire,Percival,Grand,-,Sabre,-,Human,Attack
-SSR,Water,Poseidon,Grand,-,Spear,-,Primal,Attack
-SSR,Water,Vajra,Zodiac,-,Katana,Melee,Erune,Attack
-SSR,Wind,Korwa,Summer,-,Staff,-,Erune,Special
-SSR,Wind,Lich,Halloween,-,Staff,-,Primal,Special
-SSR,Wind,Narmaya,Grand,-,Katana,-,Draph,Attack
-SSR,Wind,Vania,Yukata,-,Staff,Dagger,Other,Attack
-SSR,Light,Florence,Halloween,-,Staff,-,Human,Special
-SSR,Light,Nehan,Grand,-,Gun,Melee,Erune,Special
-SSR,Dark,Ilsa,Yukata,-,Gun,Bow,Erune,Attack
-SSR,Dark,Lich,Grand,-,Staff,-,Primal,Special
-SSR,Fire,Wilnas,Grand,-,Melee,Axe,Human,Attack
-SSR,Fire,Medusa,Summer,-,Staff,Melee,Primal,Defense
-SSR,Fire,Mimlemel,Summer,-,Melee,Harp,Harvin,Special
-SSR,Fire,Nemone,Holiday,-,Spear,Axe,Erune,Balanced
-SSR,Fire,Athena,Permanent,-,Spear,-,Primal,Defense
-SSR,Fire,Elmott,Permanent,-,Staff,-,Erune,Attack
-SSR,Fire,Hekate,Permanent,-,Staff,-,Other,Attack
-SSR,Fire,Kumbhira,Summer,Zodiac,Spear,Axe,Draph,Attack
-SSR,Fire,Nezha,Yukata,-,Spear,-,Primal,Attack
-SSR,Fire,Ragazzo,Permanent,-,Melee,-,Human,Attack
-SSR,Fire,Anila,Zodiac,-,Spear,Melee,Draph,Balanced
-SSR,Fire,Cain,Holiday,-,Katana,-,Human,Special
-SSR,Fire,Dorothy and Claudia,Summer,-,Gun,Melee,Human,Special
-SSR,Fire,Luffy,Tie-In / Collab,-,Melee,-,Human,Attack
-SSR,Fire,Satyr,Permanent,-,Staff,Sabre,Primal,Defense
-SSR,Fire,Shiva,Grand,-,Spear,Staff,Primal,Attack
-SSR,Fire,Siegfried,Permanent,-,Sabre,Katana,Human,Special
-SSR,Fire,Vira,Valentine,-,Sabre,-,Human,Defense
-SSR,Fire,Agielba,Permanent,-,Sabre,-,Draph,Defense
-SSR,Fire,Anderson,Permanent,-,Spear,Axe,Human,Defense
-SSR,Fire,Anthuria,Permanent,-,Melee,Harp,Erune,Special
-SSR,Fire,Azazel,Halloween,-,Dagger,Spear,Primal,Attack
-SSR,Fire,Beatrix,Summer,-,Sabre,-,Human,Special
-SSR,Fire,Izmir,Yukata,-,Sabre,-,Draph,Attack
-SSR,Fire,Ms. Miranda,Permanent,-,Staff,-,Human,Heal
-SSR,Fire,Shion,Permanent,-,Katana,-,Human,Attack
-SSR,Fire,Silva,Yukata,-,Gun,-,Human,Attack
-SSR,Fire,Sturm,Grand,-,Sabre,-,Draph,Attack
-SSR,Fire,Yuel,Permanent,-,Katana,Harp,Erune,Balanced
-SSR,Fire,Zeta,Permanent,-,Spear,-,Human,Attack
-SSR,Water,Anne,Permanent,-,Spear,Staff,Human,Defense
-SSR,Water,Cagliostro,Summer,-,Staff,-,Human,Heal
-SSR,Water,Cassius,Valentine,-,Spear,Melee,Other,Balanced
-SSR,Water,Gwynne,Permanent,-,Sabre,Gun,Human,Attack
-SSR,Water,Helel ben Shalem,Summer,-,Spear,Staff,Other,Special
-SSR,Water,Lancelot,Grand,-,Sabre,Dagger,Human,Special
-SSR,Water,Zeta,Permanent,-,Spear,-,Human,Attack
-SSR,Water,Anila,Yukata,Zodiac,Spear,Melee,Draph,Attack
-SSR,Water,Clarisse,Summer,-,Staff,-,Human,Attack
-SSR,Water,Lucio,Summer,-,Katana,Sabre,Other,Balanced
-SSR,Water,Andira,Summer,Zodiac,Staff,Melee,Erune,Balanced
-SSR,Water,Catura,Holiday,Zodiac,Spear,Melee,Draph,Attack
-SSR,Water,Cupitan,Permanent,-,Bow,-,Human,Attack
-SSR,Water,Filene,Permanent,-,Spear,-,Other,Special
-SSR,Water,Jeanne d'Arc,Summer,-,Sabre,-,Human,Attack
-SSR,Water,Kolulu,Summer,-,Spear,-,Human,Special
-SSR,Water,Yuel,Permanent,-,Katana,Harp,Erune,Special
-SSR,Water,Erika,Permanent,-,Gun,-,Human,Balanced
-SSR,Water,Isaac,Permanent,-,Gun,Melee,Human,Defense
-SSR,Water,Juliet,Permanent,-,Spear,-,Human,Balanced
-SSR,Water,Korwa,Permanent,-,Staff,-,Erune,Special
-SSR,Water,Lily,Permanent,-,Staff,-,Other,Heal
-SSR,Water,Romeo,Permanent,-,Sabre,Staff,Human,Balanced
-SSR,Water,Rosetta,Halloween,-,Dagger,Staff,Primal,Defense
-SSR,Water,Sandalphon,Summer,-,Sabre,Katana,Primal,Balanced
-SSR,Water,Societte,Permanent,-,Melee,Harp,Erune,Special
-SSR,Water,Sturm,Permanent,-,Sabre,-,Draph,Attack
-SSR,Water,Vane,Permanent,-,Spear,Axe,Human,Defense
-SSR,Water,Yodarha,Permanent,-,Sabre,Katana,Harvin,Attack
-SSR,Earth,Illnott,Summer,-,Gun,-,Human,Special
-SSR,Earth,Anthuria,Holiday,-,Melee,Harp,Erune,Heal
-SSR,Earth,Cidala,Zodiac,-,Axe,-,Erune,Attack
-SSR,Earth,Galleon,Grand,-,Staff,-,Other,Balanced
-SSR,Earth,Mahira,Zodiac,-,Harp,Melee,Harvin,Special
-SSR,Earth,Satyr,Permanent,-,Sabre,Harp,Primal,Heal
-SSR,Earth,Vikala,Summer,Zodiac,Axe,Melee,Human,Special
-SSR,Earth,Alexiel,Summer,-,Sabre,Katana,Primal,Special
-SSR,Earth,Cucouroux,Halloween,-,Gun,-,Human,Special
-SSR,Earth,Monika,Valentine,-,Sabre,Katana,Human,Balanced
-SSR,Earth,Narmaya,Holiday,-,Katana,-,Draph,Attack
-SSR,Earth,Soriz,Permanent,-,Melee,-,Human,Attack
-SSR,Earth,Aletheia,Permanent,-,Sabre,Katana,Human,Attack
-SSR,Earth,Arulumaya,Permanent,-,Staff,-,Harvin,Special
-SSR,Earth,Fiorito,Permanent,-,Melee,-,Human,Attack
-SSR,Earth,Golden Knight,Grand,-,Sabre,-,Erune,Attack
-SSR,Earth,Pengy,Permanent,-,Gun,Melee,Human,Attack
-SSR,Earth,Sandalphon,Grand,Fantasy,Sabre,Katana,Primal,Special
-SSR,Earth,Skull and Balurga,Permanent,-,Gun,Melee,Harvin,Attack
-SSR,Earth,Amelia,Permanent,-,Sabre,-,Human,Balanced
-SSR,Earth,Dante and Freiheit,Permanent,-,Staff,Melee,Human,Attack
-SSR,Earth,Europa,Holiday,-,Staff,-,Primal,Balanced
-SSR,Earth,Ladiva,Permanent,-,Melee,-,Draph,Attack
-SSR,Earth,Lennah,Permanent,-,Staff,-,Other,Balanced
-SSR,Earth,Magisa,Holiday,-,Staff,Melee,Human,Special
-SSR,Earth,Metera,Summer,-,Bow,-,Erune,Attack
-SSR,Earth,Nobara Kugisaki and Maki Zen'in,Tie-In / Collab,-,Axe,Spear,Human,Attack
-SSR,Earth,Pholia,Yukata,-,Staff,Melee,Erune,Special
-SSR,Earth,Vira,Summer,-,Sabre,-,Human,Special
-SSR,Earth,Yaia,Permanent,-,Sabre,-,Draph,Special
-SSR,Earth,Zeta and Vaseraga,Halloween,-,Spear,Axe,"Human,draph",Balanced
-SSR,Wind,Ewiyar,Grand,-,Melee,-,Other,Special
-SSR,Wind,Grimnir,Valentine,-,Spear,Staff,Primal,Special
-SSR,Wind,Andira,Zodiac,-,Staff,Melee,Erune,Balanced
-SSR,Wind,Charlotta,Grand,-,Sabre,-,Harvin,Defense
-SSR,Wind,Kaguya,Grand,-,Staff,-,Primal,Special
-SSR,Wind,Vane,Halloween,-,Spear,Axe,Human,Defense
-SSR,Wind,Yuel,Summer,-,Katana,Harp,Erune,Balanced
-SSR,Wind,Aliza,Summer,-,Melee,-,Draph,Attack
-SSR,Wind,Anila,Summer,Zodiac,Spear,Melee,Draph,Special
-SSR,Wind,Catura,Zodiac,-,Spear,Melee,Draph,Attack
-SSR,Wind,Petra,Permanent,-,Staff,-,Human,Balanced
-SSR,Wind,Sandalphon,Valentine,-,Sabre,Katana,Primal,Balanced
-SSR,Wind,Azusa,Permanent,-,Katana,-,Draph,Attack
-SSR,Wind,Caro,Permanent,-,Harp,-,Primal,Balanced
-SSR,Wind,Cinnamoroll and Pompompurin,Tie-In / Collab,-,Melee,-,Other,Heal
-SSR,Wind,Elea,Permanent,-,Sabre,Katana,Erune,Balanced
-SSR,Wind,Grimnir,Grand,-,Spear,Staff,Primal,Balanced
-SSR,Wind,Melissabelle,Permanent,-,Sabre,Axe,Harvin,Attack
-SSR,Wind,Meteon,Holiday,-,Gun,Melee,Human,Special
-SSR,Wind,Monika,Grand,-,Sabre,Katana,Human,Balanced
-SSR,Wind,Nami and Robin,Tie-In / Collab,-,Staff,Melee,Human,Special
-SSR,Wind,Nezha,Permanent,-,Spear,-,Primal,Attack
-SSR,Wind,Rosetta,Grand,-,Dagger,-,Primal,Special
-SSR,Wind,Selfira,Permanent,-,Harp,-,Erune,Special
-SSR,Wind,Shion,Summer,-,Katana,-,Human,Defense
-SSR,Wind,Sho,Permanent,-,Melee,-,Human,Attack
-SSR,Wind,Sutera,Permanent,-,Bow,-,Erune,Attack
-SSR,Wind,Tiamat,Permanent,-,Melee,Staff,Primal,Special
-SSR,Wind,Yodarha,Permanent,-,Sabre,Katana,Harvin,Attack
-SSR,Light,Aglovale,Valentine,-,Sabre,-,Human,Attack
-SSR,Light,Ferry,Permanent,-,Dagger,-,Erune,Balanced
-SSR,Light,Io,Grand,-,Staff,-,Human,Balanced
-SSR,Light,Jeanne d'Arc,Grand,-,Sabre,Spear,Human,Balanced
-SSR,Light,Kumbhira,Zodiac,-,Spear,Axe,Draph,Attack
-SSR,Light,Makura,Zodiac,-,Katana,-,Erune,Attack
-SSR,Light,Mugen,Halloween,-,Melee,Harp,Draph,Defense
-SSR,Light,Vira,Grand,-,Axe,Spear,Primal,Defense
-SSR,Light,Yurius,Summer,-,Sabre,Spear,Human,Special
-SSR,Light,Cagliostro,Grand,-,Staff,-,Human,Special
-SSR,Light,Cosmos,Grand,-,Gun,Sabre,Primal,Balanced
-SSR,Light,Mahira,Holiday,Zodiac,Melee,Harp,Harvin,Special
-SSR,Light,Zahlhamelina,Yukata,-,Staff,-,Harvin,Special
-SSR,Light,Albert,Permanent,-,Sabre,-,Human,Attack
-SSR,Light,Halluel and Malluel,Summer,-,Dagger,-,Primal,Balanced
-SSR,Light,Juliet,Permanent,-,Spear,-,Human,Defense
-SSR,Light,Narmaya,Yukata,-,Katana,-,Draph,Attack
-SSR,Light,Shiva,Summer,-,Spear,Staff,Primal,Attack
-SSR,Light,You,Permanent,-,Melee,Katana,Erune,Attack
-SSR,Light,Yuni,Grand,-,Staff,-,Primal,Balanced
-SSR,Light,Zeta,Summer,-,Spear,-,Human,Attack
-SSR,Light,Baotorda,Permanent,-,Sabre,-,Draph,Defense
-SSR,Light,De La Fille,Permanent,-,Sabre,-,Human,Heal
-SSR,Light,Gawain,Permanent,-,Axe,Spear,Human,Attack
-SSR,Light,Hallessena,Halloween,-,Axe,-,Draph,Attack
-SSR,Light,Lucio,Grand,-,Katana,Sabre,Other,Balanced
-SSR,Light,Lu Woh,Grand,-,Melee,Staff,Erune,Heal
-SSR,Light,Melissabelle,Valentine,-,Sabre,Axe,Harvin,Defense
-SSR,Light,Monika,Summer,-,Sabre,Katana,Human,Balanced
-SSR,Light,Nicholas,Permanent,-,Melee,Katana,"Human,other",Attack
-SSR,Light,Noa,Grand,-,Staff,Gun,Primal,Special
-SSR,Light,Prishe,Tie-In / Collab,-,Melee,-,Other,Attack
-SSR,Light,Sandalphon,Permanent,-,Sabre,Katana,Primal,Balanced
-SSR,Light,Sturm,Summer,-,Sabre,-,Draph,Special
-SSR,Light,Tikoh,Permanent,-,Staff,-,Erune,Heal
-SSR,Dark,Bowman,Fantasy,-,Melee,-,Human,Attack
-SSR,Dark,Fediel,Grand,-,Sabre,Melee,Draph,Special
-SSR,Dark,Halluel and Malluel,Grand,-,Dagger,-,Primal,Special
-SSR,Dark,Magisa,Summer,-,Staff,Melee,Human,Special
-SSR,Dark,Vikala,Zodiac,-,Axe,Melee,Human,Balanced
-SSR,Dark,Meg,Summer,-,Dagger,Melee,Human,Attack
-SSR,Dark,Orchid,Grand,-,Melee,Dagger,Other,Special
-SSR,Dark,Tanya,Permanent,-,Dagger,-,Human,Special
-SSR,Dark,Black Knight,Grand,-,Sabre,Gun,Human,Attack
-SSR,Dark,Clarisse,Valentine,-,Staff,-,Human,Special
-SSR,Dark,Ippatsu,Permanent,-,Melee,-,Human,Special
-SSR,Dark,Olivia,Grand,-,Sabre,-,Primal,Special
-SSR,Dark,Predator,Permanent,-,Melee,-,Human,Attack
-SSR,Dark,Zehek,Permanent,-,Dagger,Melee,Human,Special
-SSR,Dark,Zoro and Sanji,Tie-In / Collab,-,Katana,Melee,Human,Attack
-SSR,Dark,Albert,Permanent,-,Sabre,-,Human,Attack
-SSR,Dark,Amira,Summer,-,Melee,-,Other,Balanced
-SSR,Dark,Anthuria,Yukata,-,Melee,Harp,Erune,Balanced
-SSR,Dark,Azusa,Summer,-,Katana,-,Draph,Attack
-SSR,Dark,Cassius,Permanent,-,Melee,Spear,Other,Balanced
-SSR,Dark,Cendrillon,Permanent,-,Dagger,Melee,Other,Attack
-SSR,Dark,Cerberus,Permanent,-,Melee,-,Primal,Special
-SSR,Dark,Cupitan,Summer,-,Bow,-,Human,Special
-SSR,Dark,Helel ben Shalem,Grand,-,Spear,Staff,Other,Special
-SSR,Dark,Lelouch Lamperouge,Tie-In / Collab,-,Gun,-,Human,Balanced
-SSR,Dark,Manamel,Permanent,-,Dagger,-,Erune,Attack
-SSR,Dark,Meg and Mari,Permanent,-,Dagger,Melee,"Human,erune",Special
-SSR,Dark,Narmaya,Permanent,-,Katana,-,Draph,Attack
-SSR,Dark,Rei,Grand,-,Staff,Katana,Harvin,Special
-SSR,Dark,Tabina,Summer,-,Axe,Bow,Human,Attack
-SSR,Dark,Vaseraga,Permanent,-,Axe,-,Draph,Attack
-SSR,Dark,Veight,Permanent,-,Dagger,-,Other,Attack
-SSR,Dark,Wulf and Renie,Permanent,-,Melee,Gun,Other,Attack
-SSR,Fire,Icarus,Permanent,-,Sabre,-,Human,Attack
-SSR,Fire,Metera,Permanent,-,Bow,-,Erune,Attack
-SSR,Fire,Mugen,Grand,-,Melee,Harp,Draph,Attack
-SSR,Fire,Reinhardtzar,Grand,-,Melee,-,Draph,Attack
-SSR,Fire,Sylph,Permanent,-,Staff,-,Primal,Special
-SSR,Fire,Teena,Summer,-,Staff,-,Human,Balanced
-SSR,Fire,Vaseraga,Permanent,-,Axe,-,Draph,Attack
-SSR,Fire,Yuisis,Permanent,-,Sabre,Katana,Erune,Attack
-SSR,Fire,Altair,Holiday,-,Staff,-,Human,Balanced
-SSR,Fire,Anna,Permanent,-,Staff,-,Human,Attack
-SSR,Fire,Aoidos,Permanent,-,Sabre,Harp,Human,Special
-SSR,Fire,Colossus,Permanent,-,Sabre,Axe,Primal,Attack
-SSR,Fire,Danua,Halloween,-,Dagger,Axe,Draph,Special
-SSR,Fire,Ghandagoza,Permanent,-,Melee,-,Draph,Attack
-SSR,Fire,Heles,Permanent,-,Spear,Staff,Erune,Attack
-SSR,Fire,Illnott,Permanent,-,Gun,-,Human,Attack
-SSR,Fire,Kyojuro Rengoku,Tie-In / Collab,-,Katana,-,Human,Attack
-SSR,Fire,Lancelot and Vane,Permanent,-,Sabre,Spear,Human,Attack
-SSR,Fire,Mirin,Summer,-,Katana,-,Human,Heal
-SSR,Fire,Naoise,Permanent,-,Spear,-,Human,Defense
-SSR,Fire,Scathacha,Valentine,-,Melee,-,Erune,Heal
-SSR,Fire,Shinsengumi,Tie-In / Collab,-,Katana,Gun,Human,Attack
-SSR,Fire,Tabina,Permanent,-,Bow,Axe,Human,Attack
-SSR,Fire,Abby,Permanent,-,Axe,-,Human,Attack
-SSR,Fire,Baal,Permanent,-,Harp,Axe,Primal,Attack
-SSR,Fire,Enyo,Summer,-,Spear,-,Primal,Attack
-SSR,Fire,Ilsa,Summer,-,Bow,Gun,Erune,Attack
-SSR,Fire,Magisa,Permanent,-,Staff,Melee,Human,Special
-SSR,Fire,Rackam,Grand,-,Gun,-,Human,Special
-SSR,Fire,Therese,Permanent,-,Sabre,-,Human,Attack
-SSR,Fire,Tsubasa,Permanent,-,Melee,-,Human,Attack
-SSR,Fire,Grea,Permanent,-,Melee,-,Other,Attack
-SSR,Fire,Percival,Permanent,-,Sabre,-,Human,Attack
-SSR,Fire,Vira,Permanent,-,Sabre,-,Human,Special
-SSR,Fire,Aliza,Permanent,-,Melee,-,Draph,Attack
-SSR,Fire,Aqours Third-Years,Tie-In / Collab,-,Spear,Gun,Human,Defense
-SSR,Fire,Clarisse,Permanent,-,Staff,-,Human,Special
-SSR,Fire,Drang,Permanent,-,Staff,-,Erune,Special
-SSR,Fire,Io,Summer,-,Staff,-,Human,Attack
-SSR,Fire,Kallen Kouzuki,Tie-In / Collab,-,Melee,-,Human,Attack
-SSR,Fire,Percival,Summer,-,Sabre,-,Human,Balanced
-SSR,Fire,Zahlhamelina,Permanent,-,Staff,-,Harvin,Special
-SSR,Water,Drang,Grand,-,Staff,-,Erune,Special
-SSR,Water,Erin,Permanent,-,Staff,-,Other,Heal
-SSR,Water,Europa,Grand,-,Staff,-,Primal,Heal
-SSR,Water,Katalina,Grand,-,Sabre,-,Human,Balanced
-SSR,Water,Lecia,Permanent,-,Sabre,Gun,Human,Attack
-SSR,Water,Mirin,Holiday,-,Katana,-,Human,Balanced
-SSR,Water,Narmaya,Summer,-,Katana,-,Draph,Attack
-SSR,Water,Sophia,Permanent,-,Staff,-,Human,Heal
-SSR,Water,Vaseraga,Summer,-,Axe,-,Draph,Defense
-SSR,Water,Wamdus,Grand,-,Staff,Axe,Harvin,Defense
-SSR,Water,Altair,Permanent,-,Staff,-,Human,Balanced
-SSR,Water,Chat Noir,Permanent,-,Staff,Dagger,Human,Special
-SSR,Water,Diantha,Summer,-,Harp,-,Human,Special
-SSR,Water,Fediel,Summer,-,Melee,Sabre,Draph,Special
-SSR,Water,Grea,Summer,-,Melee,-,Other,Attack
-SSR,Water,Lancelot,Permanent,-,Sabre,Dagger,Human,Attack
-SSR,Water,Milleore and Sahli Lao,Permanent,-,Gun,Bow,Harvin,Attack
-SSR,Water,Pholia,Grand,-,Staff,Melee,Erune,Special
-SSR,Water,Shura,Permanent,-,Spear,-,Human,Balanced
-SSR,Water,Siegfried,Summer,-,Spear,-,Human,Defense
-SSR,Water,"Tanjiro, Nezuko, Zenitsu, and Inosuke",Tie-In / Collab,-,Katana,-,Human,Balanced
-SSR,Water,Troue,Permanent,-,Sabre,-,Erune,Special
-SSR,Water,Vania and Malinda,Permanent,-,Staff,Melee,Other,Special
-SSR,Water,Doraemon,Tie-In / Collab,-,Gun,Katana,Other,Special
-SSR,Water,Izmir,Permanent,-,Sabre,-,Draph,Attack
-SR,Water,Leona,Yukata,-,Spear,-,Human,Attack
-SSR,Water,Macula Marius,Permanent,-,Staff,-,Primal,Special
-SSR,Water,Sen,Valentine,-,Melee,-,Erune,Attack
-SSR,Water,Silva,Permanent,-,Gun,-,Human,Attack
-SSR,Water,Yngwie,Permanent,-,Melee,Gun,Human,Defense
-SSR,Water,Aglovale,Permanent,-,Sabre,-,Human,Attack
-SSR,Water,Europa,Summer,-,Staff,-,Primal,Balanced
-SSR,Water,Aqours Second-Years,Tie-In / Collab,-,Sabre,Gun,Human,Balanced
-SSR,Water,Arulumaya,Holiday,-,Staff,-,Harvin,Special
-SSR,Water,Charlotta,Permanent,-,Sabre,-,Harvin,Balanced
-SSR,Water,Lady Katapillar and Vira,Fantasy,-,Melee,Gun,Other,Special
-SSR,Earth,Adam,Permanent,-,Sabre,-,Other,Defense
-SSR,Earth,Alexiel,Grand,-,Sabre,Katana,Primal,Defense
-SSR,Earth,Baal,Permanent,-,Harp,Axe,Primal,Balanced
-SSR,Earth,Beatrix,Permanent,-,Sabre,-,Human,Special
-SSR,Earth,Eugen,Grand,-,Gun,-,Human,Attack
-SSR,Earth,Hallessena,Permanent,-,Axe,-,Draph,Attack
-SSR,Earth,Jessica,Yukata,-,Gun,-,Human,Heal
-SSR,Earth,Lamretta,Permanent,-,Melee,-,Draph,Special
-SSR,Earth,Leona,Grand,-,Spear,-,Human,Attack
-SSR,Earth,Melleau,Permanent,-,Spear,Axe,Erune,Attack
-SSR,Earth,Mireille and Risette,Permanent,-,Dagger, melee,Human,Attack
-SSR,Earth,Orchid,Permanent,-,Dagger,Melee,Other,Special
-SSR,Earth,Paris,Permanent,-,Sabre,-,Human,Defense
-SSR,Earth,Sara,Permanent,-,Melee,-,Human,Defense
-SSR,Earth,Siegfried,Permanent,-,Sabre,Katana,Human,Special
-SSR,Earth,Ayer,Permanent,-,Melee,-,Human,Special
-SSR,Earth,Benjamin,Fantasy,-,Sabre,Harp,Human,Attack
-SSR,Earth,Cagliostro,Permanent,-,Staff,-,Human,Heal
-SSR,Earth,Cain,Grand,-,Katana,-,Human,Special
-SSR,Earth,Medusa,Valentine,-,Melee,-,Primal,Balanced
-SSR,Earth,Silva,Summer,-,Gun,-,Human,Attack
-SSR,Earth,Tikoh,Summer,-,Staff,-,Erune,Heal
-SSR,Earth,Yggdrasil,Permanent,-,Melee,-,Primal,Special
-SSR,Earth,Aglovale and Tor,Permanent,-,Sabre,-,Human,Special
-SSR,Earth,Diantha,Permanent,-,Harp,-,Human,Heal
-SSR,Earth,Eustace,Permanent,-,Gun,-,Erune,Attack
-SSR,Earth,Medusa,Permanent,-,Melee,-,Primal,Balanced
-SSR,Earth,"Special Week, Silence Suzuka, and Tokai Teio",Tie-In / Collab,-,Melee,-,Other,Balanced
-SSR,Earth,Eustace,Halloween,-,Gun,-,Erune,Attack
-SSR,Earth,Ilsa,Permanent,-,Gun,Bow,Erune,Attack
-SSR,Earth,Aqours First-Years,Tie-In / Collab,-,Staff,-,Human,Heal
-SSR,Earth,De La Fille,Permanent,-,Sabre,-,Human,Heal
-SSR,Earth,Jamil,Permanent,-,Dagger,-,Human,Attack
-SSR,Earth,Rosetta,Summer,-,Dagger,-,Primal,Special
-SSR,Earth,Vaseraga,Permanent,-,Axe,-,Draph,Attack
-SSR,Wind,Cantate,Permanent,-,Harp,-,Erune,Attack
-SSR,Wind,Enyo,Permanent,-,Spear,-,Primal,Attack
-SSR,Wind,Lecia,Grand,-,Sabre,-,Human,Balanced
-SSR,Wind,Lily,Permanent,-,Staff,-,Other,Heal
-SSR,Wind,Nectar,Permanent,-,Bow,Katana,Other,Attack
-SSR,Wind,Nezahualpilli,Permanent,-,Spear,-,Human,Attack
-SSR,Wind,Randall,Permanent,-,Melee,-,Human,Attack
-SSR,Wind,Scathacha,Permanent,-,Melee,-,Erune,Attack
-SSR,Wind,Siegfried,Yukata,-,Sabre,Katana,Human,Attack
-SSR,Wind,Yuisis,Permanent,-,Sabre,Katana,Erune,Balanced
-SSR,Wind,Yurius,Permanent,-,Sabre,Staff,Human,Special
-SSR,Wind,Eustace,Summer,-,Gun,Dagger,Erune,Attack
-SSR,Wind,Florence,Permanent,-,Staff,-,Human,Special
-SSR,Wind,Naoise,Permanent,-,Dagger,Bow,Human,Special
-SSR,Wind,Societte,Permanent,-,Melee,Harp,Erune,Heal
-SSR,Wind,Ultimate Friday,Fantasy,-,Melee,Spear,Human,Balanced
-SSR,Wind,Yngwie,Yukata,-,Gun,Melee,Human,Defense
-SSR,Wind,Albert,Summer,-,Sabre,-,Human,Attack
-SSR,Wind,Freyr,Permanent,-,Sabre,-,Primal,Attack
-SSR,Wind,Gawain,Permanent,-,Axe,Spear,Human,Defense
-SSR,Wind,Heles,Permanent,-,Spear,-,Erune,Attack
-SSR,Wind,Jeanne d'Arc,Summer,-,Sabre,-,Human,Balanced
-SSR,Wind,Kokkoro,Tie-In / Collab,-,Spear,-,Other,Balanced
-SSR,Wind,Lancelot,Permanent,-,Sabre,Dagger,Human,Attack
-SSR,Wind,Lennah,Permanent,-,Staff,-,Human,Heal
-SSR,Wind,Morrigna,Permanent,-,Staff,-,Primal,Special
-SSR,Wind,Seruel,Holiday,-,Sabre,Dagger,Erune,Defense
-SSR,Wind,Shinobu Kocho,Tie-In / Collab,-,Katana,-,Human,Heal
-SSR,Wind,Therese,Permanent,-,Sabre,-,Human,Attack
-SSR,Wind,Vira,Fantasy,-,Harp,Melee,Human,Attack
-SSR,Wind,Yggdrasil,Permanent,-,Melee,-,Primal,Special
-SSR,Wind,Metera,Permanent,-,Bow,-,Erune,Balanced
-SSR,Wind,Alliah,Permanent,-,Sabre,-,Erune,Special
-SSR,Wind,Arriet,Permanent,-,Harp,-,Human,Special
-SSR,Wind,Carmelina,Permanent,-,Dagger,-,Draph,Special
-SSR,Wind,Ewiyar,Permanent,-,Melee,-,Other,Special
-SSR,Wind,Levi,Tie-In / Collab,-,Sabre,Katana,Human,Attack
-SSR,Wind,Lilisette,Tie-In / Collab,-,Dagger,-,Other,Balanced
-SSR,Wind,Mimori Amamiya,Tie-In / Collab,-,Harp,-,Human,Balanced
-SR,Wind,Mirin,Permanent,-,Katana,-,Human,Attack
-SSR,Wind,Monika,Permanent,-,Sabre,Katana,Human,Balanced
-SSR,Wind,Stan and Aliza,Permanent,-,Sabre,Melee,"Erune,draph",Attack
-SSR,Wind,μ's First-Years,Tie-In / Collab,-,Harp,Staff,Human,Heal
-SSR,Light,Arthur,Permanent,-,Sabre,-,Human,Balanced
-SSR,Light,Dorothy and Claudia,Permanent,-,Gun,Melee,Human,Special
-SSR,Light,Feather,Permanent,-,Melee,-,Human,Attack
-SSR,Light,Grea,Permanent,-,Melee,-,Other,Special
-SSR,Light,Ilsa,Permanent,-,Gun,Bow,Erune,Defense
-SSR,Light,Jeanne d'Arc,Permanent,-,Sabre,Spear,Human,Balanced
-SSR,Light,Levin Sisters,Permanent,-,Sabre,Melee,Human,Special
-SSR,Light,Lunalu,Fantasy,-,Sabre,-,Harvin,Attack
-SSR,Light,Mary,Holiday,-,Gun,-,Human,Balanced
-SSR,Light,Metera,Holiday,-,Bow,-,Erune,Balanced
-SSR,Light,Robomi,Permanent,-,Gun,-,Other,Attack
-SSR,Light,Rosamia,Yukata,-,Sabre,-,Human,Balanced
-SSR,Light,Sara,Permanent,-,Melee,-,Human,Defense
-SSR,Light,Seruel,Summer,-,Sabre,-,Erune,Balanced
-SSR,Light,Arulumaya,Permanent,-,Staff,-,Harvin,Defense
-SSR,Light,Charlotta,Permanent,-,Sabre,-,Harvin,Attack
-SSR,Light,Charlotta,Halloween,-,Sabre,-,Harvin,Heal
-SSR,Light,Ladiva,Valentine,-,Melee,-,Draph,Heal
-SSR,Light,Lily,Holiday,-,Staff,-,Other,Heal
-SSR,Light,Mishra,Permanent,-,Staff,-,Erune,Special
-SSR,Light,New Generations,Tie-In / Collab,-,Sabre,Gun,Human,Balanced
-SSR,Light,Nobita,Tie-In / Collab,-,Gun,-,Human,Attack
-SSR,Light,Sarunan,Permanent,-,Staff,-,Erune,Special
-SSR,Light,Silva,Permanent,-,Gun,-,Human,Attack
-SSR,Light,Zooey,Permanent,-,Gun,Sabre,Primal,Balanced
-SSR,Light,Bobobo-bo Bo-bobo,Tie-In / Collab,-,Melee,Staff,Human,Special
-SSR,Light,Clarisse,Permanent,-,Staff,-,Human,Attack
-SSR,Light,Drusilla,Permanent,-,Dagger,-,Harvin,Special
-SSR,Light,Naoise,Summer,-,Spear,-,Human,Defense
-SSR,Light,Percival,Permanent,-,Sabre,-,Human,Balanced
-SSR,Light,Seruel,Permanent,-,Sabre,-,Erune,Attack
-SSR,Light,Yorozuya,Tie-In / Collab,-,Katana,Melee,Human,Balanced
-SSR,Light,Farrah and Juri,Permanent,-,Sabre,-,Human,Balanced
-SSR,Light,Shitori,Permanent,-,Bow,Katana,Human,Balanced
-SSR,Light,Amira,Permanent,-,Melee,-,Other,Special
-SSR,Light,Danua,Permanent,-,Dagger,Axe,Draph,Special
-SSR,Light,Heles,Summer,-,Spear,-,Erune,Balanced
-SSR,Light,Rosamia,Permanent,-,Sabre,-,Human,Balanced
-SSR,Light,Sophia,Permanent,-,Staff,-,Human,Heal
-SSR,Light,μ's Second-Years,Tie-In / Collab,-,Bow,Staff,Human,Balanced
-SSR,Dark,Eustace,Permanent,-,Gun,Dagger,Erune,Attack
-SSR,Dark,Freezie,Fantasy,-,Gun,-,Erune,Special
-SSR,Dark,Jessica,Permanent,-,Gun,-,Human,Balanced
-SSR,Dark,Kolulu,Permanent,-,Spear,-,Human,Special
-SSR,Dark,Kou,Permanent,-,Katana,Harp,Erune,Heal
-SSR,Dark,Lady Grey,Halloween,-,Spear,Melee,Human,Special
-SSR,Dark,Vania,Permanent,-,Staff,Dagger,Other,Special
-SSR,Dark,Yuji Itadori and Megumi Fushiguro,Tie-In / Collab,-,Melee,Katana,Human,Attack
-SSR,Dark,Zooey,Summer,Grand,Sabre,-,Primal,Special
-SSR,Dark,Ferry,Grand,-,Dagger,-,Erune,Special
-SSR,Dark,Fiorito,Holiday,-,Melee,-,Human,Attack
-SSR,Dark,Jasmine,Permanent,-,Staff,-,Human,Heal
-SSR,Dark,Joker,Tie-In / Collab,-,Dagger,Gun,Human,Special
-SSR,Dark,Lady Grey,Permanent,-,Spear,Melee,Human,Special
-SSR,Dark,Lucius,Permanent,-,Sabre,Katana,Human,Attack
-SSR,Dark,Lunalu,Permanent,-,Staff,-,Harvin,Special
-SSR,Dark,Yuel and Societte,Permanent,-,Katana,Harp,Erune,Balanced
-SSR,Dark,Azazel,Permanent,-,Dagger,Melee,Primal,Attack
-SSR,Dark,Cagliostro,Permanent,-,Staff,-,Human,Heal
-SSR,Dark,Vira,Permanent,-,Sabre,-,Human,Attack
-SSR,Dark,Cagliostro,Halloween,-,Staff,-,Human,Balanced
-SSR,Dark,Jeanne d'Arc,Permanent,-,Sabre,-,Human,Attack
-SSR,Dark,Nicholas,Permanent,-,Katana,-,Human,Defense
-SSR,Dark,Rosetta,Holiday,-,Dagger,-,Primal,Heal
-SSR,Dark,Vajra,Summer,Zodiac,Katana,Melee,Erune,Attack
-SSR,Dark,μ's Third-Years,Tie-In / Collab,-,Harp,Staff,Human,Defense
-SSR,Dark,Beatrix,Permanent,-,Sabre,-,Human,Special
-SSR,Dark,Black Knight and Orchis,Permanent,-,Sabre,-,Human,Defense
-SSR,Dark,Seox,Eternals,-,Melee,-,Erune,Attack
-R,Dark,Vikala,Zodiac,-,Axe,Melee,Human,Balanced
-SR,Any,Lyria,Permanent,-,Melee,-,Human,Special
-SSR,Fire,Charioce XVII,Permanent,-,Sabre,-,Human,Special
-SSR,Fire,Iroha,Tie-In / Collab,-,Spear,-,Human,Special
-SSR,Fire,Lilele,Permanent,-,Harp,-,Harvin,Heal
-SSR,Fire,Societte,Permanent,-,Melee,Harp,Erune,Defense
-SSR,Water,Cucouroux,Permanent,-,Gun,-,Human,Balanced
-SSR,Water,Izmir,Summer,-,Sabre,-,Draph,Attack
-SR,Water,Owen,Permanent,-,Sabre,-,Human,Balanced
-SSR,Earth,Catherine,Permanent,-,Gun,-,Erune,Special
-R,Earth,Catura,Zodiac,-,Spear,Melee,Draph,Special
-SSR,Earth,Clarisse,Holiday,-,Staff,-,Human,Special
-SSR,Earth,Herja,Permanent,-,Sabre,-,Human,Defense
-SSR,Earth,Jin,Permanent,-,Katana,-,Human,Attack
-SSR,Earth,Laguna,Permanent,-,Spear,-,Draph,Special
-SR,Earth,Nezahualpilli,Permanent,-,Spear,-,Human,Attack
-SSR,Earth,Razia,Permanent,-,Spear,Gun,Draph,Defense
-SR,Earth,Walder,Permanent,-,Dagger,-,Human,Special
-SR,Earth,Yaia,Permanent,-,Sabre,-,Draph,Special
-SSR,Wind,Christina,Permanent,-,Gun,Dagger,Human,Balanced
-SSR,Wind,Feena,Permanent,-,Bow,-,Human,Attack
-SSR,Wind,Gachapin,Tie-In / Collab,-,Sabre,Melee,Other,Balanced
-SR,Wind,Juri,Permanent,-,Sabre,-,Human,Attack
-SSR,Wind,Kaede Takagaki,Tie-In / Collab,-,Staff,Harp,Human,Special
-SSR,Wind,Korwa,Permanent,-,Staff,-,Erune,Special
-SSR,Wind,Sen,Permanent,-,Melee,-,Erune,Attack
-SSR,Wind,Seofon,Fantasy,Eternals,Sabre,-,Human,Attack
-SR,Wind,Sevilbarra,Permanent,-,Katana,-,Harvin,Attack
-SSR,Wind,Suzaku Kururugi,Tie-In / Collab,-,Sabre,Melee,Human,Attack
-SR,Wind,Yaia,Holiday,-,Sabre,-,Draph,Special
-SSR,Light,Cure Black and Cure White,Tie-In / Collab,-,Melee,-,Human,Attack
-SSR,Light,De La Fille,Summer,-,Sabre,-,Human,Heal
-SSR,Light,Mikazuki Munechika,Tie-In / Collab,-,Katana,-,Other,Balanced
-SSR,Light,Pecorine,Tie-In / Collab,-,Sabre,-,Human,Defense
-SSR,Light,Sakura Kinomoto,Tie-In / Collab,-,Staff,-,Human,Special
-SSR,Light,Zooey,Permanent,-,Sabre,-,Primal,Balanced
-SSR,Dark,Danua,Summer,-,Dagger,-,Draph,Special
-SSR,Dark,Forte,Permanent,-,Spear,-,Draph,Attack
-SSR,Dark,Karyl,Tie-In / Collab,-,Staff,-,Other,Attack
-SSR,Dark,Katalina,Permanent,-,Sabre,-,Human,Balanced
-SSR,Dark,Marquiares,Permanent,-,Staff,-,Harvin,Special
-SR,Dark,Skull,Permanent,-,Gun,Melee,Harvin,Attack
-SSR,Dark,Zeta,Permanent,-,Spear,-,Human,Attack
-SR,Fire,Friday,Summer,-,Melee,Gun,Human,Balanced
-SR,Fire,Beatrix,Halloween,-,Sabre,-,Human,Special
-SR,Fire,Dante,Permanent,-,Staff,-,Human,Attack
-SR,Fire,Ferry,Summer,-,Dagger,-,Erune,Special
-SSR,Fire,Hiro Ryugasaki,Tie-In / Collab,-,Melee,-,Human,Attack
-SR,Fire,Sutera,Permanent,-,Bow,-,Erune,Defense
-SR,Water,Ejaeli,Permanent,-,Harp,-,Human,Balanced
-SR,Water,Katalina,Summer,-,Sabre,-,Human,Defense
-SR,Water,Katalina,Permanent,-,Sabre,-,Human,Balanced
-SSR,Water,Lilele,Permanent,-,Harp,-,Harvin,Special
-SR,Water,Minami Nitta,Tie-In / Collab,-,Spear,-,Human,Balanced
-SR,Water,Morphe and Phoebe,Permanent,-,Harp,-,Other,Special
-SR,Earth,Ayer,Summer,-,Melee,-,Human,Attack
-SR,Earth,Gayne,Permanent,-,Sabre,-,Human,Special
-SR,Earth,Jamil,Permanent,-,Dagger,-,Human,Special
-SR,Earth,Jasmine,Permanent,-,Staff,-,Human,Heal
-SR,Earth,Lancelot and Vane,Summer,-,Sabre,Spear,Human,Defense
-SSR,Earth,Medusa,Permanent,-,Melee,-,Primal,Attack
-SSR,Earth,Nemone,Permanent,-,Axe,Spear,Erune,Attack
-SR,Wind,Helnar,Permanent,-,Sabre,-,Erune,Balanced
-SR,Wind,Meteon,Permanent,-,Gun,-,Human,Special
-SR,Wind,Mikasa,Tie-In / Collab,-,Sabre,Katana,Human,Attack
-SR,Wind,Selfira,Permanent,-,Harp,-,Erune,Heal
-SR,Wind,Spinnah,Holiday,-,Dagger,-,Human,Attack
-R,Wind,Spinnah,Permanent,-,Dagger,-,Human,Attack
-SSR,Light,Conan Edogawa,Tie-In / Collab,-,Gun,Melee,Human,Special
-SR,Light,Feather,Permanent,-,Melee,-,Human,Attack
-SR,Light,Jeanne d'Arc,Permanent,-,Sabre,-,Human,Special
-SR,Light,Mirin,Permanent,-,Katana,-,Human,Attack
-SR,Light,Nicholas,Permanent,-,Katana,-,Human,Balanced
-SR,Light,Sevilbarra,Permanent,-,Katana,-,Harvin,Attack
-SR,Light,Vermeil,Permanent,-,Sabre,-,Harvin,Balanced
-SR,Light,Zeta,Permanent,-,Spear,-,Human,Attack
-SR,Dark,Arulumaya,Yukata,-,Staff,-,Harvin,Special
-SR,Dark,Elize Lutus,Tie-In / Collab,-,Staff,-,Human,Special
-SR,Dark,Feather,Halloween,-,Melee,-,Human,Attack
-SR,Dark,Meg,Permanent,-,Dagger,Melee,Human,Attack
-SR,Dark,Predator,Permanent,-,Melee,-,Human,Attack
-SR,Dark,Richard,Permanent,-,Gun,-,Human,Special
-SSR,Dark,Sarunan,Permanent,-,Staff,-,Erune,Special
-SR,Dark,Shao,Permanent,-,Staff,-,Erune,Special
-SR,Dark,Vania,Permanent,-,Staff,-,Other,Special
-SR,Dark,Will,Permanent,-,Sabre,Staff,Human,Balanced
-SR,Dark,Wulf and Renie,Halloween,-,Melee,Gun,Other,Defense
-SR,Dark,You,Permanent,-,Melee,-,Erune,Attack
-SR,Fire,Aster,Permanent,-,Bow,-,Erune,Special
-SR,Fire,Gemini Sunrise,Tie-In / Collab,-,Katana,Gun,Human,Attack
-SR,Fire,Grea,Permanent,-,Melee,-,Other,Attack
-SR,Fire,Izuminokami Kanesada,Tie-In / Collab,-,Katana,-,Other,Attack
-SR,Fire,Lina,Tie-In / Collab,-,Sabre,-,Human,Balanced
-SR,Fire,Miria Akagi,Tie-In / Collab,-,Staff,-,Human,Special
-SR,Fire,Naoise,Permanent,-,Spear,-,Human,Defense
-SSR,Fire,Nina Drango,Permanent,-,Melee,-,Other,Attack
-SR,Water,Aliza,Permanent,-,Melee,-,Draph,Attack
-SR,Water,Cailana,Permanent,-,Melee,-,Erune,Attack
-SR,Water,Charlotta,Summer,-,Sabre,-,Harvin,Balanced
-SR,Water,Io,Permanent,-,Staff,-,Human,Heal
-SR,Water,Joel,Permanent,-,Melee,-,Human,Heal
-SR,Water,Lily,Permanent,-,Staff,-,Other,Heal
-SR,Water,Lowain,Permanent,-,Dagger,-,Erune,Special
-SR,Water,Mina,Permanent,-,Sabre,-,Human,Balanced
-SR,Earth,Almeida,Summer,-,Axe,-,Draph,Attack
-SR,Earth,Beatrix,Permanent,-,Sabre,-,Human,Attack
-SR,Earth,Galadar,Permanent,-,Axe,-,Draph,Defense
-SR,Earth,Jin,Permanent,-,Katana,-,Human,Attack
-SR,Earth,Mahira,Zodiac,-,Harp,-,Harvin,Special
-SR,Earth,Razia,Permanent,-,Spear,Gun,Draph,Defense
-SR,Earth,Sara,Summer,-,Melee,-,Human,Defense
-SR,Earth,Soriz,Permanent,-,Melee,-,Human,Attack
-SR,Earth,The Lowain Bros,Permanent,-,Dagger,Sabre,Erune,Special
-SR,Wind,Charlotta,Permanent,-,Sabre,-,Harvin,Defense
-SR,Wind,Krugne,Permanent,-,Staff,-,Erune,Special
-SR,Wind,Miku Maekawa,Tie-In / Collab,-,Melee,-,Human,Attack
-SR,Wind,Mimlemel and Stumpeye,Permanent,-,Melee,-,Harvin,Attack
-SR,Wind,Sen,Holiday,-,Melee,-,Erune,Attack
-SR,Wind,Sevastien,Permanent,-,Sabre,-,Erune,Balanced
-SR,Wind,Shiki Ichinose,Tie-In / Collab,-,Staff,-,Human,Special
-SR,Wind,Sutera,Permanent,-,Bow,-,Erune,Balanced
-SR,Wind,Yuisis,Yukata,-,Sabre,Katana,Erune,Balanced
-SR,Light,Albert,Permanent,-,Sabre,-,Human,Balanced
-SR,Light,Arusha,Permanent,-,Staff,-,Erune,Balanced
-SR,Light,Bridgette and Cordelia,Permanent,-,Sabre,Spear,"Harvin,human",Balanced
-SR,Light,Erica Fontaine,Tie-In / Collab,-,Gun,-,Human,Heal
-SR,Light,Feena,Holiday,-,Bow,-,Human,Attack
-SR,Light,Kumbhira,Zodiac,-,Spear,Axe,Draph,Attack
-SR,Light,Naoise,Permanent,-,Spear,-,Human,Defense
-SR,Light,Noa,Permanent,-,Staff,-,Primal,Special
-SR,Light,Sophia,Permanent,-,Staff,-,Human,Heal
-SR,Light,Tear Grants,Tie-In / Collab,-,Staff,-,Human,Balanced
-SR,Light,Tyre,Yukata,-,Sabre,Gun,Human,Balanced
-SR,Dark,Danua,Permanent,-,Dagger,-,Draph,Special
-SR,Dark,Deliford,Permanent,-,Spear,-,Human,Defense
-SR,Dark,Jamil,Permanent,-,Dagger,-,Human,Attack
-SR,Dark,Mika Jougasaki,Tie-In / Collab,-,Dagger,-,Human,Special
-SR,Dark,Olivia,Summer,-,Sabre,-,Primal,Balanced
-SR,Dark,Zaja,Permanent,-,Axe,-,Draph,Defense
-SR,Fire,Abby,Permanent,-,Axe,-,Human,Attack
-SR,Fire,Alec,Permanent,-,Melee,-,Human,Attack
-SR,Fire,Aliza,Permanent,-,Melee,-,Draph,Attack
-SR,Fire,Barawa,Permanent,-,Gun,-,Draph,Attack
-SR,Fire,Carren,Permanent,-,Sabre,-,Human,Balanced
-SR,Fire,Carren,Summer,-,Sabre,-,Human,Attack
-SR,Fire,Cassius,Yukata,-,Melee,Spear,Other,Balanced
-SR,Fire,Cucouroux,Permanent,-,Gun,-,Human,Attack
-SR,Fire,Ghandagoza,Summer,-,Melee,-,Draph,Attack
-SR,Fire,Karin,Tie-In / Collab,-,Melee,-,Human,Attack
-SR,Fire,Lucius,Permanent,-,Sabre,-,Human,Attack
-SR,Fire,Mio Honda,Tie-In / Collab,-,Gun,-,Human,Balanced
-SR,Fire,Percival,Permanent,-,Sabre,-,Human,Attack
-SR,Fire,Rika Jougasaki,Tie-In / Collab,-,Spear,-,Human,Attack
-SR,Fire,Rosine,Permanent,-,Gun,-,Human,Heal
-SR,Fire,Sen,Permanent,-,Melee,-,Erune,Attack
-SR,Fire,Sutera,Permanent,-,Bow,-,Erune,Balanced
-SR,Fire,Teena,Valentine,-,Staff,-,Human,Balanced
-SR,Fire,Teena,Permanent,-,Staff,-,Human,Heal
-SR,Fire,Therese,Permanent,-,Sabre,-,Human,Balanced
-SR,Fire,Zooey,Permanent,-,Spear,-,Primal,Special
-SR,Water,Anastasia,Tie-In / Collab,-,Sabre,-,Human,Attack
-SR,Water,Ange,Permanent,-,Sabre,-,Human,Balanced
-SR,Water,Camieux,Summer,-,Gun,-,Draph,Special
-SR,Water,Chun-Li,Tie-In / Collab,-,Melee,-,Human,Attack
-SR,Water,Diantha,Permanent,-,Harp,-,Human,Special
-SR,Water,Erin,Permanent,-,Staff,-,Other,Heal
-SR,Water,Farrah,Summer,-,Sabre,-,Human,Attack
-SR,Water,Mizuki Kawashima,Tie-In / Collab,-,Staff,-,Human,Heal
-SR,Water,Naga,Tie-In / Collab,-,Sabre,-,Human,Balanced
-SR,Water,Rin Shibuya,Tie-In / Collab,-,Sabre,-,Human,Attack
-SR,Water,Sahli Lao,Permanent,-,Bow,-,Harvin,Balanced
-SR,Water,Sig,Permanent,-,Sabre,Spear,Human,Attack
-SR,Water,Suframare,Summer,-,Staff,-,Harvin,Special
-SR,Water,Ulamnuran,Permanent,-,Spear,-,Harvin,Special
-SR,Water,Yuel,Permanent,-,Katana,Harp,Erune,Balanced
-SR,Earth,Airi Totoki,Tie-In / Collab,-,Sabre,-,Human,Defense
-SR,Earth,Almeida,Permanent,-,Axe,-,Draph,Attack
-SR,Earth,Anzu Futaba,Tie-In / Collab,-,Gun,-,Human,Special
-SR,Earth,Cain,Permanent,-,Katana,-,Human,Special
-SR,Earth,Catherine,Permanent,-,Gun,-,Erune,Special
-SR,Earth,Eugen,Permanent,-,Gun,-,Human,Balanced
-SR,Earth,Herja,Permanent,-,Sabre,-,Human,Balanced
-SR,Earth,Jessica,Permanent,-,Gun,-,Human,Special
-SR,Earth,Jin,Summer,-,Katana,-,Human,Heal
-SR,Earth,Jin,Permanent,-,Sabre,-,Human,Attack
-SR,Earth,J.J.,Summer,-,Harp,-,Human,Special
-SR,Earth,La Coiffe,Permanent,-,Sabre,-,Erune,Heal
-SR,Earth,Ladiva,Permanent,-,Melee,-,Draph,Attack
-SR,Earth,Lamretta,Permanent,-,Staff,-,Draph,Balanced
-SR,Earth,Leona,Permanent,-,Spear,-,Human,Attack
-SR,Earth,Mimlemel and Pun-Kin,Halloween,-,Harp,Melee,Harvin,Attack
-SR,Earth,Redluck,Permanent,-,Melee,-,Draph,Special
-SR,Earth,Vanzza,Permanent,-,Melee,-,Draph,Attack
-SR,Earth,Zaja,Halloween,-,Axe,-,Draph,Defense
-SR,Wind,Andira,Zodiac,-,Staff,-,Erune,Balanced
-SR,Wind,Arisa,Tie-In / Collab,-,Bow,-,Other,Balanced
-SR,Wind,Arthur,Permanent,-,Sabre,-,Human,Balanced
-SR,Wind,Arthur and Mordred,Permanent,-,Sabre,-,"Human,erune",Balanced
-SR,Wind,Chloe,Summer,-,Melee,-,Erune,Special
-SR,Wind,Feena,Permanent,-,Bow,-,Human,Balanced
-SR,Wind,Goblin Mage,Permanent,-,Staff,-,Other,Special
-SR,Wind,Hazen,Permanent,-,Staff,Melee,Human,Heal
-SR,Wind,Joy,Permanent,-,Melee,Gun,Other,Special
-SR,Wind,Karteira,Permanent,-,Melee,-,Erune,Special
-SR,Wind,Keehar,Permanent,-,Bow,-,Erune,Balanced
-SR,Wind,Korwa,Fantasy,-,Sabre,-,Erune,Balanced
-SR,Wind,Mimlemel,Permanent,-,Harp,-,Harvin,Special
-SR,Wind,Rashid,Tie-In / Collab,-,Melee,-,Human,Attack
-SR,Wind,Tōru Amuro,Tie-In / Collab,-,Melee,-,Human,Attack
-SR,Wind,Tsubasa Kashiwagi,Tie-In / Collab,-,Gun,-,Human,Balanced
-SR,Wind,Tyre,Permanent,-,Sabre, gun,Human,Special
-SR,Light,Amira,Permanent,-,Melee,-,Other,Attack
-SR,Light,Amira,Permanent,-,Melee,-,Other,Attack
-SR,Light,Baotorda,Permanent,-,Sabre,-,Draph,Defense
-SR,Light,Barawa,Permanent,-,Gun,-,Draph,Attack
-SR,Light,Ceylan,Permanent,-,Staff,-,Erune,Heal
-SR,Light,Ezecrain,Permanent,-,Melee,-,Human,Special
-SR,Light,Johann,Permanent,-,Staff,-,Human,Heal
-SR,Light,Philosophia,Permanent,-,Staff,Melee,Harvin,Special
-SR,Light,Rosamia,Permanent,-,Sabre,-,Human,Balanced
-SR,Light,Uzuki Shimamura,Tie-In / Collab,-,Sabre,-,Human,Balanced
-SR,Dark,Cagliostro,Permanent,-,Staff,-,Human,Heal
-SR,Dark,Cassius,Permanent,-,Melee,Spear,Other,Balanced
-SR,Dark,Koume Shirasaka,Tie-In / Collab,-,Staff,-,Human,Special
-SR,Dark,Lucius,Permanent,-,Sabre,-,Human,Attack
-SR,Dark,Randall,Permanent,-,Melee,-,Human,Attack
-SR,Dark,Ranko Kanzaki,Tie-In / Collab,-,Staff,-,Human,Attack
-SR,Dark,Tanya,Permanent,-,Dagger,-,Human,Attack
-SR,Dark,Tanya,Summer,-,Dagger,-,Human,Balanced
-SR,Fire,Anila,Zodiac,-,Spear,-,Draph,Special
-SR,Fire,Blazing Teacher Elmott,Permanent,-,Staff,-,Erune,Balanced
-SR,Fire,Cecile,Permanent,-,Harp,-,Erune,Special
-R,Fire,Dante,Permanent,-,Staff,-,Human,Attack
-SR,Fire,Elmott,Summer,-,Staff,-,Erune,Attack
-SR,Fire,Ippatsu,Permanent,-,Melee,-,Human,Special
-SR,Fire,Jessica,Permanent,-,Gun,-,Human,Balanced
-SR,Fire,Karva,Permanent,-,Gun,-,Draph,Special
-SR,Fire,Mary,Permanent,-,Gun,-,Human,Balanced
-SR,Fire,Milla Maxwell,Tie-In / Collab,-,Sabre,-,Other,Attack
-SR,Fire,Rackam,Permanent,-,Gun,-,Human,Special
-SR,Fire,Reinhardtzar,Permanent,-,Melee,-,Draph,Attack
-SR,Fire,Ryan,Permanent,-,Axe,-,Human,Attack
-SR,Fire,Stahn Aileron,Tie-In / Collab,-,Sabre,-,Human,Attack
-SR,Water,Kaoru Sakuraba,Tie-In / Collab,-,Dagger,-,Human,Special
-SR,Water,Lamretta,Permanent,-,Melee,-,Draph,Special
-SR,Water,Lancelot,Permanent,-,Sabre,Dagger,Human,Attack
-SR,Water,Lilele,Summer,-,Harp,-,Harvin,Special
-SR,Water,Milleore,Permanent,-,Bow,-,Harvin,Balanced
-SR,Water,Mishra,Permanent,-,Staff,-,Erune,Special
-SR,Water,Pamela,Permanent,-,Harp,-,Human,Special
-SR,Water,Pengy,Permanent,-,Gun,Melee,Human,Defense
-SR,Water,Vane,Permanent,-,Spear, axe,Human,Defense
-SR,Water,Vane,Permanent,-,Spear, axe,Human,Defense
-SR,Earth,Augusta,Permanent,-,Harp,-,Draph,Special
-SR,Earth,Carmelina,Permanent,-,Dagger,-,Draph,Special
-SR,Earth,Claudia,Permanent,-,Melee,-,Human,Attack
-SR,Earth,Eugen,Summer,-,Gun,-,Human,Attack
-SR,Earth,Juri,Permanent,-,Sabre,-,Human,Balanced
-SR,Earth,Kanako Mimura,Tie-In / Collab,-,Staff,-,Human,Heal
-SR,Earth,Laguna,Permanent,-,Spear,-,Draph,Special
-SR,Earth,Mariah,Permanent,-,Spear,-,Human,Attack
-SR,Earth,Rackam,Holiday,-,Gun,-,Human,Special
-SR,Earth,Skull,Permanent,-,Gun,-,Harvin,Attack
-SR,Earth,Yamanbagiri Kunihiro,Tie-In / Collab,-,Katana,-,Other,Special
-SR,Wind,Eso,Permanent,-,Axe,-,Human,Balanced
-SR,Wind,Farrah,Permanent,-,Sabre,-,Human,Defense
-SR,Wind,Helnar,Summer,-,Sabre,-,Erune,Special
-SR,Wind,Jin,Summer,-,Katana,-,Human,Balanced
-SR,Wind,Lecia,Summer,-,Sabre,-,Human,Balanced
-SR,Wind,Robertina,Permanent,-,Harp,-,Harvin,Special
-SR,Wind,Ryu,Tie-In / Collab,-,Melee,-,Human,Attack
-SR,Wind,Sakura Shinguji,Tie-In / Collab,-,Katana,-,Human,Balanced
-SR,Light,Daetta,Permanent,-,Axe,-,Draph,Attack
-SR,Light,Elta,Permanent,-,Harp,-,Human,Special
-SR,Light,Ferry,Halloween,-,Dagger,-,Erune,Special
-SR,Light,Johann,Permanent,-,Staff,-,Human,Heal
-SR,Light,Ladiva,Holiday,-,Melee,-,Draph,Attack
-SR,Light,Nakoruru,Tie-In / Collab,-,Katana,-,Human,Attack
-SR,Light,Novei,Permanent,-,Harp,-,Human,Special
-SR,Light,Sophie,Tie-In / Collab,-,Melee,-,Other,Attack
-SR,Light,Soriz,Permanent,-,Melee,-,Human,Defense
-SR,Dark,Luna,Tie-In / Collab,-,Staff,-,Human,Special
-SR,Dark,Stan,Permanent,-,Sabre,-,Erune,Balanced
-SR,Dark,Yuri Lowell,Tie-In / Collab,-,Katana,-,Human,Attack
-SR,Dark,Zehek,Permanent,-,Dagger,-,Human,Balanced
-R,Any,Young Cat,Permanent,-,Melee,-,Other,Special
-SR,Fire,Anna,Permanent,-,Staff,-,Human,Attack
-R,Fire,Barawa,Permanent,-,Gun,-,Draph,Attack
-SR,Fire,Jessica,Summer,-,Gun,-,Human,Special
-SR,Fire,Sarya,Permanent,-,Gun,-,Draph,Special
-SR,Fire,Teru Tendo,Tie-In / Collab,-,Sabre,-,Human,Attack
-R,Water,Cailana,Permanent,-,Melee,-,Erune,Attack
-SR,Water,Romeo,Permanent,-,Sabre,-,Human,Balanced
-SR,Water,Sig,Permanent,-,Spear,-,Human,Attack
-SR,Water,Therese,Permanent,-,Sabre,-,Human,Special
-SR,Earth,Farrah,Permanent,-,Sabre,-,Human,Balanced
-SR,Earth,Paris,Permanent,-,Sabre,-,Human,Defense
-SR,Wind,Aster,Permanent,-,Bow,-,Erune,Balanced
-SR,Wind,Elta,Permanent,-,Harp,-,Human,Special
-SR,Wind,Haohmaru,Tie-In / Collab,-,Katana,-,Human,Attack
-SR,Wind,Syr,Permanent,-,Dagger,-,Human,Special
-SR,Light,Ferry,Permanent,-,Dagger,-,Erune,Special
-SR,Light,J.J.,Permanent,-,Harp,-,Human,Special
-SR,Light,Robomi,Permanent,-,Gun,-,Other,Special
-SR,Light,Sachiko Koshimizu,Tie-In / Collab,-,Axe,-,Human,Special
-SR,Light,Sarya,Permanent,-,Gun,-,Draph,Special
-SR,Dark,Ange,Halloween,-,Sabre,-,Human,Attack
-R,Dark,Lunalu,Summer,-,Staff,-,Harvin,Special
-R,Dark,Lunalu,Permanent,-,Staff,-,Harvin,Special
-SR,Dark,Narmaya,Valentine,-,Katana,-,Draph,Attack
-SR,Dark,Vira,Permanent,-,Sabre,-,Human,Attack
-SR,Fire,Dorothy,Permanent,-,Gun,-,Human,Special
-SR,Fire,Elmott,Permanent,-,Staff,-,Erune,Attack
-R,Fire,Ippatsu,Summer,-,Melee,-,Human,Special
-R,Water,Bridgette,Permanent,-,Sabre,-,Harvin,Special
-SR,Water,Pengy,Permanent,-,Gun,-,Human,Defense
-R,Water,Randall,Permanent,-,Melee,-,Human,Attack
-R,Earth,Balurga,Permanent,-,Melee,-,Harvin,Attack
-R,Earth,La Coiffe,Permanent,-,Sabre,-,Erune,Special
-SR,Earth,Volenna,Permanent,-,Sabre,-,Human,Defense
-R,Wind,Chloe,Permanent,-,Melee,-,Erune,Special
-SR,Wind,Lecia,Permanent,-,Sabre,-,Human,Balanced
-SR,Wind,Rosetta,Permanent,-,Dagger,-,Other,Balanced
-R,Wind,Thelonim,Permanent,-,Sabre,-,Erune,Special
-R,Light,Cordelia,Permanent,-,Sabre,-,Human,Defense
-R,Light,Vermeil,Permanent,-,Dagger,-,Harvin,Balanced
-R,Dark,Lowain,Permanent,-,Dagger,-,Erune,Attack
-R,Fire,Drusilla,Permanent,-,Dagger,-,Harvin,Special
-R,Fire,Flesselles,Permanent,-,Bow,-,Erune,Balanced
-R,Fire,Ippatsu,Permanent,-,Melee,-,Human,Special
-R,Fire,Karva,Permanent,-,Gun,-,Draph,Balanced
-R,Fire,Rosine,Permanent,-,Gun,-,Human,Heal
-R,Water,Joel,Permanent,-,Melee,-,Human,Balanced
-R,Water,Suframare,Permanent,-,Staff,-,Harvin,Heal
-R,Earth,Camieux,Permanent,-,Gun,-,Draph,Special
-R,Earth,Galadar,Permanent,-,Axe,-,Draph,Defense
-R,Earth,Volenna,Permanent,-,Sabre,-,Human,Defense
-R,Wind,Karteira,Permanent,-,Melee,-,Erune,Special
-R,Light,Daetta,Permanent,-,Axe,-,Draph,Attack
-R,Light,Philosophia,Permanent,-,Staff,-,Harvin,Heal
-R,Dark,Lowain,Summer,-,Dagger,-,Erune,Attack
-SR,Dark,Ludmila,Permanent,-,Gun,-,Harvin,Attack
-R,Fire,Anna,Permanent,-,Staff,-,Human,Attack
-R,Fire,Camieux,Permanent,-,Gun,-,Draph,Special
-SR,Fire,Ezecrain,Permanent,-,Dagger,-,Human,Special
-R,Fire,Mary,Summer,-,Gun,-,Human,Balanced
-R,Fire,Ryan,Permanent,-,Axe,-,Human,Attack
-R,Fire,Viceroy,Permanent,-,Axe,-,Human,Special
-R,Water,Alistair,Permanent,-,Staff,-,Harvin,Special
-R,Earth,Garma,Permanent,-,Gun,-,Draph,Balanced
-R,Earth,Herja,Permanent,-,Sabre,-,Human,Balanced
-R,Earth,Nene,Permanent,-,Melee,-,Human,Special
-R,Earth,Norcel,Permanent,-,Staff,-,Harvin,Special
-SR,Earth,Sara,Permanent,-,Melee,-,Human,Defense
-R,Earth,Vanzza,Permanent,-,Melee,-,Draph,Attack
-R,Wind,Petra,Permanent,-,Staff,-,Human,Heal
-R,Wind,Stan,Permanent,-,Sabre,-,Erune,Attack
-R,Light,Feather,Permanent,-,Melee,-,Human,Attack
-R,Light,Rosamia,Permanent,-,Sabre,-,Human,Balanced
-R,Dark,Bakura,Permanent,-,Harp,-,Draph,Balanced
-SR,Dark,Rita,Permanent,-,Staff,-,Human,Special
-R,Dark,Tanya,Permanent,-,Dagger,-,Human,Balanced
-R,Dark,Zehek,Permanent,-,Dagger,-,Human,Attack
-R,Fire,Anna,Summer,-,Staff,-,Human,Attack
-R,Fire,Elmelaura,Permanent,-,Axe,-,Harvin,Special
-R,Fire,Lamretta,Permanent,-,Staff,-,Draph,Special
-R,Fire,Mary,Permanent,-,Gun,-,Human,Balanced
-R,Water,Deliford,Permanent,-,Spear,-,Human,Defense
-R,Water,Yodarha,Permanent,-,Sabre, katana,Harvin,Balanced
-R,Earth,Farrah,Permanent,-,Sabre,-,Human,Balanced
-R,Earth,Jasmine,Permanent,-,Spear,-,Human,Heal
-R,Earth,Walder,Permanent,-,Dagger,-,Human,Balanced
-R,Earth,Walder,Summer,-,Dagger,-,Human,Balanced
-R,Earth,Walder,Holiday,-,Dagger,-,Human,Balanced
-R,Wind,Eso,Permanent,-,Axe,-,Human,Attack
-R,Wind,Hazen,Permanent,-,Staff,Melee,Human,Defense
-R,Wind,Leonora,Permanent,-,Dagger,-,Harvin,Balanced
-R,Wind,Pavidus,Permanent,-,Dagger,-,Draph,Defense
-R,Dark,Will,Permanent,-,Sabre,Staff,Human,Special
-R,Wind,Krugne,Permanent,-,Sabre,-,Erune,Special
-R,Water,Richard,Permanent,-,Gun,-,Human,Special
+Rarity,Element,Name,Series,2nd Series,Weapon,2nd Weapon,Race,2nd Race,Type,URL
+SSR,Fire,Michael,Grand,-,Sabre,-,Primal,-,Attack,https://gbf.wiki/Michael
+SSR,Fire,Percival,Grand,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Percival_(Grand)
+SSR,Water,Poseidon,Grand,-,Spear,-,Primal,-,Attack,https://gbf.wiki/Poseidon
+SSR,Water,Vajra,Zodiac,-,Katana,Melee,Erune,-,Attack,https://gbf.wiki/Vajra
+SSR,Wind,Korwa,Summer,-,Staff,-,Erune,-,Special,https://gbf.wiki/Korwa_(Summer)
+SSR,Wind,Lich,Halloween,-,Staff,-,Primal,-,Special,https://gbf.wiki/Lich_(Halloween)
+SSR,Wind,Narmaya,Grand,-,Katana,-,Draph,-,Attack,https://gbf.wiki/Narmaya_(Grand)
+SSR,Wind,Vania,Yukata,-,Staff,Dagger,Other,-,Attack,https://gbf.wiki/Vania_(Yukata)
+SSR,Light,Florence,Halloween,-,Staff,-,Human,-,Special,https://gbf.wiki/Florence_(Halloween)
+SSR,Light,Nehan,Grand,-,Gun,Melee,Erune,-,Special,https://gbf.wiki/Nehan
+SSR,Dark,Ilsa,Yukata,-,Gun,Bow,Erune,-,Attack,https://gbf.wiki/Ilsa_(Yukata)
+SSR,Dark,Lich,Grand,-,Staff,-,Primal,-,Special,https://gbf.wiki/Lich
+SSR,Fire,Wilnas,Grand,-,Melee,Axe,Human,-,Attack,https://gbf.wiki/Wilnas
+SSR,Fire,Medusa,Summer,-,Staff,Melee,Primal,-,Defense,https://gbf.wiki/Medusa_(Summer)
+SSR,Fire,Mimlemel,Summer,-,Melee,Harp,Harvin,-,Special,https://gbf.wiki/Mimlemel_(Summer)
+SSR,Fire,Nemone,Holiday,-,Spear,Axe,Erune,-,Balanced,https://gbf.wiki/Nemone_(Holiday)
+SSR,Fire,Athena,Permanent,-,Spear,-,Primal,-,Defense,https://gbf.wiki/Athena
+SSR,Fire,Elmott,Permanent,-,Staff,-,Erune,-,Attack,https://gbf.wiki/Elmott_(SSR)
+SSR,Fire,Hekate,Permanent,-,Staff,-,Other,-,Attack,https://gbf.wiki/Hekate
+SSR,Fire,Kumbhira,Summer,Zodiac,Spear,Axe,Draph,-,Attack,https://gbf.wiki/Kumbhira_(Summer)
+SSR,Fire,Nezha,Yukata,-,Spear,-,Primal,-,Attack,https://gbf.wiki/Nezha_(Yukata)
+SSR,Fire,Ragazzo,Permanent,-,Melee,-,Human,-,Attack,https://gbf.wiki/Ragazzo
+SSR,Fire,Anila,Zodiac,-,Spear,Melee,Draph,-,Balanced,https://gbf.wiki/Anila
+SSR,Fire,Cain,Holiday,-,Katana,-,Human,-,Special,https://gbf.wiki/Cain_(Holiday)
+SSR,Fire,Dorothy and Claudia,Summer,-,Gun,Melee,Human,-,Special,https://gbf.wiki/Dorothy_and_Claudia_(Summer)
+SSR,Fire,Luffy,Tie-In / Collab,-,Melee,-,Human,-,Attack,https://gbf.wiki/Luffy
+SSR,Fire,Satyr,Permanent,-,Staff,Sabre,Primal,-,Defense,https://gbf.wiki/Satyr
+SSR,Fire,Shiva,Grand,-,Spear,Staff,Primal,-,Attack,https://gbf.wiki/Shiva
+SSR,Fire,Siegfried,Permanent,-,Sabre,Katana,Human,-,Special,https://gbf.wiki/Siegfried_(Fire)
+SSR,Fire,Vira,Valentine,-,Sabre,-,Human,-,Defense,https://gbf.wiki/Vira_(Valentine)
+SSR,Fire,Agielba,Permanent,-,Sabre,-,Draph,-,Defense,https://gbf.wiki/Agielba
+SSR,Fire,Anderson,Permanent,-,Spear,Axe,Human,-,Defense,https://gbf.wiki/Anderson
+SSR,Fire,Anthuria,Permanent,-,Melee,Harp,Erune,-,Special,https://gbf.wiki/Anthuria
+SSR,Fire,Azazel,Halloween,-,Dagger,Spear,Primal,-,Attack,https://gbf.wiki/Azazel_(Halloween)
+SSR,Fire,Beatrix,Summer,-,Sabre,-,Human,-,Special,https://gbf.wiki/Beatrix_(Summer)
+SSR,Fire,Izmir,Yukata,-,Sabre,-,Draph,-,Attack,https://gbf.wiki/Izmir_(Yukata)
+SSR,Fire,Ms. Miranda,Permanent,-,Staff,-,Human,-,Heal,https://gbf.wiki/Ms._Miranda
+SSR,Fire,Shion,Permanent,-,Katana,-,Human,-,Attack,https://gbf.wiki/Shion
+SSR,Fire,Silva,Yukata,-,Gun,-,Human,-,Attack,https://gbf.wiki/Silva_(Yukata)
+SSR,Fire,Sturm,Grand,-,Sabre,-,Draph,-,Attack,https://gbf.wiki/Sturm_(Grand)
+SSR,Fire,Yuel,Permanent,-,Katana,Harp,Erune,-,Balanced,https://gbf.wiki/Yuel
+SSR,Fire,Zeta,Permanent,-,Spear,-,Human,-,Attack,https://gbf.wiki/Zeta
+SSR,Water,Anne,Permanent,-,Spear,Staff,Human,-,Defense,https://gbf.wiki/Anne
+SSR,Water,Cagliostro,Summer,-,Staff,-,Human,-,Heal,https://gbf.wiki/Cagliostro_(Summer)
+SSR,Water,Cassius,Valentine,-,Spear,Melee,Other,-,Balanced,https://gbf.wiki/Cassius_(Valentine)
+SSR,Water,Gwynne,Permanent,-,Sabre,Gun,Human,-,Attack,https://gbf.wiki/Gwynne
+SSR,Water,Helel ben Shalem,Summer,-,Spear,Staff,Other,-,Special,https://gbf.wiki/Helel_ben_Shalem_(Summer)
+SSR,Water,Lancelot,Grand,-,Sabre,Dagger,Human,-,Special,https://gbf.wiki/Lancelot_(Grand)
+SSR,Water,Zeta,Permanent,-,Spear,-,Human,-,Attack,https://gbf.wiki/Zeta_(Water)
+SSR,Water,Anila,Yukata,Zodiac,Spear,Melee,Draph,-,Attack,https://gbf.wiki/Anila_(Yukata)
+SSR,Water,Clarisse,Summer,-,Staff,-,Human,-,Attack,https://gbf.wiki/Clarisse_(Summer)
+SSR,Water,Lucio,Summer,-,Katana,Sabre,Other,-,Balanced,https://gbf.wiki/Lucio_(Summer)
+SSR,Water,Andira,Summer,Zodiac,Staff,Melee,Erune,-,Balanced,https://gbf.wiki/Andira_(Summer)
+SSR,Water,Catura,Holiday,Zodiac,Spear,Melee,Draph,-,Attack,https://gbf.wiki/Catura_(Holiday)
+SSR,Water,Cupitan,Permanent,-,Bow,-,Human,-,Attack,https://gbf.wiki/Cupitan
+SSR,Water,Filene,Permanent,-,Spear,-,Other,-,Special,https://gbf.wiki/Filene
+SSR,Water,Jeanne d'Arc,Summer,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Jeanne_d%27Arc_(Water_Summer)
+SSR,Water,Kolulu,Summer,-,Spear,-,Human,-,Special,https://gbf.wiki/Kolulu_(Summer)
+SSR,Water,Yuel,Permanent,-,Katana,Harp,Erune,-,Special,https://gbf.wiki/Yuel_(Water)
+SSR,Water,Erika,Permanent,-,Gun,-,Human,-,Balanced,https://gbf.wiki/Erika
+SSR,Water,Isaac,Permanent,-,Gun,Melee,Human,-,Defense,https://gbf.wiki/Isaac
+SSR,Water,Juliet,Permanent,-,Spear,-,Human,-,Balanced,https://gbf.wiki/Juliet_(Water)
+SSR,Water,Korwa,Permanent,-,Staff,-,Erune,-,Special,https://gbf.wiki/Korwa_(Water)
+SSR,Water,Lily,Permanent,-,Staff,-,Other,-,Heal,https://gbf.wiki/Lily
+SSR,Water,Romeo,Permanent,-,Sabre,Staff,Human,-,Balanced,https://gbf.wiki/Romeo
+SSR,Water,Rosetta,Halloween,-,Dagger,Staff,Primal,-,Defense,https://gbf.wiki/Rosetta_(Halloween)
+SSR,Water,Sandalphon,Summer,-,Sabre,Katana,Primal,-,Balanced,https://gbf.wiki/Sandalphon_(Summer)
+SSR,Water,Societte,Permanent,-,Melee,Harp,Erune,-,Special,https://gbf.wiki/Societte
+SSR,Water,Sturm,Permanent,-,Sabre,-,Draph,-,Attack,https://gbf.wiki/Sturm
+SSR,Water,Vane,Permanent,-,Spear,Axe,Human,-,Defense,https://gbf.wiki/Vane_(SSR)
+SSR,Water,Yodarha,Permanent,-,Sabre,Katana,Harvin,-,Attack,https://gbf.wiki/Yodarha_(SSR)
+SSR,Earth,Illnott,Summer,-,Gun,-,Human,-,Special,https://gbf.wiki/Illnott_(Summer)
+SSR,Earth,Anthuria,Holiday,-,Melee,Harp,Erune,-,Heal,https://gbf.wiki/Anthuria_(Holiday)
+SSR,Earth,Cidala,Zodiac,-,Axe,-,Erune,-,Attack,https://gbf.wiki/Cidala
+SSR,Earth,Galleon,Grand,-,Staff,-,Other,-,Balanced,https://gbf.wiki/Galleon
+SSR,Earth,Mahira,Zodiac,-,Harp,Melee,Harvin,-,Special,https://gbf.wiki/Mahira
+SSR,Earth,Satyr,Permanent,-,Sabre,Harp,Primal,-,Heal,https://gbf.wiki/Satyr_(Earth)
+SSR,Earth,Vikala,Summer,Zodiac,Axe,Melee,Human,-,Special,https://gbf.wiki/Vikala_(Summer)
+SSR,Earth,Alexiel,Summer,-,Sabre,Katana,Primal,-,Special,https://gbf.wiki/Alexiel_(Summer)
+SSR,Earth,Cucouroux,Halloween,-,Gun,-,Human,-,Special,https://gbf.wiki/Cucouroux_(Halloween)
+SSR,Earth,Monika,Valentine,-,Sabre,Katana,Human,-,Balanced,https://gbf.wiki/Monika_(Valentine)
+SSR,Earth,Narmaya,Holiday,-,Katana,-,Draph,-,Attack,https://gbf.wiki/Narmaya_(Holiday)
+SSR,Earth,Soriz,Permanent,-,Melee,-,Human,-,Attack,https://gbf.wiki/Soriz_(SSR)
+SSR,Earth,Aletheia,Permanent,-,Sabre,Katana,Human,-,Attack,https://gbf.wiki/Aletheia
+SSR,Earth,Arulumaya,Permanent,-,Staff,-,Harvin,-,Special,https://gbf.wiki/Arulumaya
+SSR,Earth,Fiorito,Permanent,-,Melee,-,Human,-,Attack,https://gbf.wiki/Fiorito
+SSR,Earth,Golden Knight,Grand,-,Sabre,-,Erune,-,Attack,https://gbf.wiki/Golden_Knight
+SSR,Earth,Pengy,Permanent,-,Gun,Melee,Human,-,Attack,https://gbf.wiki/Pengy_(SSR)
+SSR,Earth,Sandalphon,Grand,Fantasy,Sabre,Katana,Primal,-,Special,https://gbf.wiki/Sandalphon
+SSR,Earth,Skull and Balurga,Permanent,-,Gun,Melee,Harvin,-,Attack,https://gbf.wiki/Skull_and_Balurga
+SSR,Earth,Amelia,Permanent,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Amelia
+SSR,Earth,Dante and Freiheit,Permanent,-,Staff,Melee,Human,-,Attack,https://gbf.wiki/Dante_and_Freiheit
+SSR,Earth,Europa,Holiday,-,Staff,-,Primal,-,Balanced,https://gbf.wiki/Europa_(Holiday)
+SSR,Earth,Ladiva,Permanent,-,Melee,-,Draph,-,Attack,https://gbf.wiki/Ladiva_(SSR)
+SSR,Earth,Lennah,Permanent,-,Staff,-,Other,-,Balanced,https://gbf.wiki/Lennah_(Earth)
+SSR,Earth,Magisa,Holiday,-,Staff,Melee,Human,-,Special,https://gbf.wiki/Magisa_(Holiday)
+SSR,Earth,Metera,Summer,-,Bow,-,Erune,-,Attack,https://gbf.wiki/Metera_(Summer)
+SSR,Earth,Nobara Kugisaki and Maki Zen'in,Tie-In / Collab,-,Axe,Spear,Human,-,Attack,https://gbf.wiki/Nobara_Kugisaki_and_Maki_Zen%27in
+SSR,Earth,Pholia,Yukata,-,Staff,Melee,Erune,-,Special,https://gbf.wiki/Pholia_(Yukata)
+SSR,Earth,Vira,Summer,-,Sabre,-,Human,-,Special,https://gbf.wiki/Vira_(Summer)
+SSR,Earth,Yaia,Permanent,-,Sabre,-,Draph,-,Special,https://gbf.wiki/Yaia_(SSR)
+SSR,Earth,Zeta and Vaseraga,Halloween,-,Spear,Axe,Human,Draph,Balanced,https://gbf.wiki/Zeta_and_Vaseraga_(Halloween)
+SSR,Wind,Ewiyar,Grand,-,Melee,-,Other,-,Special,https://gbf.wiki/Ewiyar_(Grand)
+SSR,Wind,Grimnir,Valentine,-,Spear,Staff,Primal,-,Special,https://gbf.wiki/Grimnir_(Valentine)
+SSR,Wind,Andira,Zodiac,-,Staff,Melee,Erune,-,Balanced,https://gbf.wiki/Andira
+SSR,Wind,Charlotta,Grand,-,Sabre,-,Harvin,-,Defense,https://gbf.wiki/Charlotta_(Grand)
+SSR,Wind,Kaguya,Grand,-,Staff,-,Primal,-,Special,https://gbf.wiki/Kaguya
+SSR,Wind,Vane,Halloween,-,Spear,Axe,Human,-,Defense,https://gbf.wiki/Vane_(Halloween)
+SSR,Wind,Yuel,Summer,-,Katana,Harp,Erune,-,Balanced,https://gbf.wiki/Yuel_(Summer)
+SSR,Wind,Aliza,Summer,-,Melee,-,Draph,-,Attack,https://gbf.wiki/Aliza_(Summer)
+SSR,Wind,Anila,Summer,Zodiac,Spear,Melee,Draph,-,Special,https://gbf.wiki/Anila_(Summer)
+SSR,Wind,Catura,Zodiac,-,Spear,Melee,Draph,-,Attack,https://gbf.wiki/Catura
+SSR,Wind,Petra,Permanent,-,Staff,-,Human,-,Balanced,https://gbf.wiki/Petra_(SSR)
+SSR,Wind,Sandalphon,Valentine,-,Sabre,Katana,Primal,-,Balanced,https://gbf.wiki/Sandalphon_(Valentine)
+SSR,Wind,Azusa,Permanent,-,Katana,-,Draph,-,Attack,https://gbf.wiki/Azusa
+SSR,Wind,Caro,Permanent,-,Harp,-,Primal,-,Balanced,https://gbf.wiki/Caro
+SSR,Wind,Cinnamoroll and Pompompurin,Tie-In / Collab,-,Melee,-,Other,-,Heal,https://gbf.wiki/Cinnamoroll_and_Pompompurin
+SSR,Wind,Elea,Permanent,-,Sabre,Katana,Erune,-,Balanced,https://gbf.wiki/Elea
+SSR,Wind,Grimnir,Grand,-,Spear,Staff,Primal,-,Balanced,https://gbf.wiki/Grimnir
+SSR,Wind,Melissabelle,Permanent,-,Sabre,Axe,Harvin,-,Attack,https://gbf.wiki/Melissabelle
+SSR,Wind,Meteon,Holiday,-,Gun,Melee,Human,-,Special,https://gbf.wiki/Meteon_(Holiday)
+SSR,Wind,Monika,Grand,-,Sabre,Katana,Human,-,Balanced,https://gbf.wiki/Monika_(Grand)
+SSR,Wind,Nami and Robin,Tie-In / Collab,-,Staff,Melee,Human,-,Special,https://gbf.wiki/Nami_and_Robin
+SSR,Wind,Nezha,Permanent,-,Spear,-,Primal,-,Attack,https://gbf.wiki/Nezha
+SSR,Wind,Rosetta,Grand,-,Dagger,-,Primal,-,Special,https://gbf.wiki/Rosetta_(Grand)
+SSR,Wind,Selfira,Permanent,-,Harp,-,Erune,-,Special,https://gbf.wiki/Selfira
+SSR,Wind,Shion,Summer,-,Katana,-,Human,-,Defense,https://gbf.wiki/Shion_(Summer)
+SSR,Wind,Sho,Permanent,-,Melee,-,Human,-,Attack,https://gbf.wiki/Sho
+SSR,Wind,Sutera,Permanent,-,Bow,-,Erune,-,Attack,https://gbf.wiki/Sutera_(SSR)
+SSR,Wind,Tiamat,Permanent,-,Melee,Staff,Primal,-,Special,https://gbf.wiki/Tiamat
+SSR,Wind,Yodarha,Permanent,-,Sabre,Katana,Harvin,-,Attack,https://gbf.wiki/Yodarha_(Wind)
+SSR,Light,Aglovale,Valentine,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Aglovale_(Valentine)
+SSR,Light,Ferry,Permanent,-,Dagger,-,Erune,-,Balanced,https://gbf.wiki/Ferry_(SSR)
+SSR,Light,Io,Grand,-,Staff,-,Human,-,Balanced,https://gbf.wiki/Io_(Grand)
+SSR,Light,Jeanne d'Arc,Grand,-,Sabre,Spear,Human,-,Balanced,https://gbf.wiki/Jeanne_d%27Arc_(Grand)
+SSR,Light,Kumbhira,Zodiac,-,Spear,Axe,Draph,-,Attack,https://gbf.wiki/Kumbhira
+SSR,Light,Makura,Zodiac,-,Katana,-,Erune,-,Attack,https://gbf.wiki/Makura
+SSR,Light,Mugen,Halloween,-,Melee,Harp,Draph,-,Defense,https://gbf.wiki/Mugen_(Halloween)
+SSR,Light,Vira,Grand,-,Axe,Spear,Primal,-,Defense,https://gbf.wiki/Vira_(Grand)
+SSR,Light,Yurius,Summer,-,Sabre,Spear,Human,-,Special,https://gbf.wiki/Yurius_(Summer)
+SSR,Light,Cagliostro,Grand,-,Staff,-,Human,-,Special,https://gbf.wiki/Cagliostro_(Grand)
+SSR,Light,Cosmos,Grand,-,Gun,Sabre,Primal,-,Balanced,https://gbf.wiki/Cosmos
+SSR,Light,Mahira,Holiday,Zodiac,Melee,Harp,Harvin,-,Special,https://gbf.wiki/Mahira_(Holiday)
+SSR,Light,Zahlhamelina,Yukata,-,Staff,-,Harvin,-,Special,https://gbf.wiki/Zahlhamelina_(Yukata)
+SSR,Light,Albert,Permanent,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Albert
+SSR,Light,Halluel and Malluel,Summer,-,Dagger,-,Primal,-,Balanced,https://gbf.wiki/Halluel_and_Malluel_(Summer)
+SSR,Light,Juliet,Permanent,-,Spear,-,Human,-,Defense,https://gbf.wiki/Juliet
+SSR,Light,Narmaya,Yukata,-,Katana,-,Draph,-,Attack,https://gbf.wiki/Narmaya_(Yukata)
+SSR,Light,Shiva,Summer,-,Spear,Staff,Primal,-,Attack,https://gbf.wiki/Shiva_(Summer)
+SSR,Light,You,Permanent,-,Melee,Katana,Erune,-,Attack,https://gbf.wiki/You
+SSR,Light,Yuni,Grand,-,Staff,-,Primal,-,Balanced,https://gbf.wiki/Yuni
+SSR,Light,Zeta,Summer,-,Spear,-,Human,-,Attack,https://gbf.wiki/Zeta_(Summer)
+SSR,Light,Baotorda,Permanent,-,Sabre,-,Draph,-,Defense,https://gbf.wiki/Baotorda_(SSR)
+SSR,Light,De La Fille,Permanent,-,Sabre,-,Human,-,Heal,https://gbf.wiki/De_La_Fille
+SSR,Light,Gawain,Permanent,-,Axe,Spear,Human,-,Attack,https://gbf.wiki/Gawain_(Light)
+SSR,Light,Hallessena,Halloween,-,Axe,-,Draph,-,Attack,https://gbf.wiki/Hallessena_(Halloween)
+SSR,Light,Lucio,Grand,-,Katana,Sabre,Other,-,Balanced,https://gbf.wiki/Lucio
+SSR,Light,Lu Woh,Grand,-,Melee,Staff,Erune,-,Heal,https://gbf.wiki/Lu_Woh
+SSR,Light,Melissabelle,Valentine,-,Sabre,Axe,Harvin,-,Defense,https://gbf.wiki/Melissabelle_(Valentine)
+SSR,Light,Monika,Summer,-,Sabre,Katana,Human,-,Balanced,https://gbf.wiki/Monika_(Summer)
+SSR,Light,Nicholas,Permanent,-,Melee,Katana,Human,Other,Attack,https://gbf.wiki/Nicholas_(Light)
+SSR,Light,Noa,Grand,-,Staff,Gun,Primal,-,Special,https://gbf.wiki/Noa_(Grand)
+SSR,Light,Prishe,Tie-In / Collab,-,Melee,-,Other,-,Attack,https://gbf.wiki/Prishe
+SSR,Light,Sandalphon,Permanent,-,Sabre,Katana,Primal,-,Balanced,https://gbf.wiki/Sandalphon_(Event)
+SSR,Light,Sturm,Summer,-,Sabre,-,Draph,-,Special,https://gbf.wiki/Sturm_(Summer)
+SSR,Light,Tikoh,Permanent,-,Staff,-,Erune,-,Heal,https://gbf.wiki/Tikoh
+SSR,Dark,Bowman,Fantasy,-,Melee,-,Human,-,Attack,https://gbf.wiki/Bowman
+SSR,Dark,Fediel,Grand,-,Sabre,Melee,Draph,-,Special,https://gbf.wiki/Fediel
+SSR,Dark,Halluel and Malluel,Grand,-,Dagger,-,Primal,-,Special,https://gbf.wiki/Halluel_and_Malluel
+SSR,Dark,Magisa,Summer,-,Staff,Melee,Human,-,Special,https://gbf.wiki/Magisa_(Summer)
+SSR,Dark,Vikala,Zodiac,-,Axe,Melee,Human,-,Balanced,https://gbf.wiki/Vikala
+SSR,Dark,Meg,Summer,-,Dagger,Melee,Human,-,Attack,https://gbf.wiki/Meg_(Summer)
+SSR,Dark,Orchid,Grand,-,Melee,Dagger,Other,-,Special,https://gbf.wiki/Orchid_(Grand)
+SSR,Dark,Tanya,Permanent,-,Dagger,-,Human,-,Special,https://gbf.wiki/Tanya_(SSR)
+SSR,Dark,Black Knight,Grand,-,Sabre,Gun,Human,-,Attack,https://gbf.wiki/Black_Knight
+SSR,Dark,Clarisse,Valentine,-,Staff,-,Human,-,Special,https://gbf.wiki/Clarisse_(Valentine)
+SSR,Dark,Ippatsu,Permanent,-,Melee,-,Human,-,Special,https://gbf.wiki/Ippatsu_(SSR)
+SSR,Dark,Olivia,Grand,-,Sabre,-,Primal,-,Special,https://gbf.wiki/Olivia
+SSR,Dark,Predator,Permanent,-,Melee,-,Human,-,Attack,https://gbf.wiki/Predator_(SSR)
+SSR,Dark,Zehek,Permanent,-,Dagger,Melee,Human,-,Special,https://gbf.wiki/Zehek_(SSR)
+SSR,Dark,Zoro and Sanji,Tie-In / Collab,-,Katana,Melee,Human,-,Attack,https://gbf.wiki/Zoro_and_Sanji
+SSR,Dark,Albert,Permanent,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Albert_(Dark)
+SSR,Dark,Amira,Summer,-,Melee,-,Other,-,Balanced,https://gbf.wiki/Amira_(Summer)
+SSR,Dark,Anthuria,Yukata,-,Melee,Harp,Erune,-,Balanced,https://gbf.wiki/Anthuria_(Yukata)
+SSR,Dark,Azusa,Summer,-,Katana,-,Draph,-,Attack,https://gbf.wiki/Azusa_(Summer)
+SSR,Dark,Cassius,Permanent,-,Melee,Spear,Other,-,Balanced,https://gbf.wiki/Cassius_(Event_SSR)
+SSR,Dark,Cendrillon,Permanent,-,Dagger,Melee,Other,-,Attack,https://gbf.wiki/Cendrillon
+SSR,Dark,Cerberus,Permanent,-,Melee,-,Primal,-,Special,https://gbf.wiki/Cerberus
+SSR,Dark,Cupitan,Summer,-,Bow,-,Human,-,Special,https://gbf.wiki/Cupitan_(Summer)
+SSR,Dark,Helel ben Shalem,Grand,-,Spear,Staff,Other,-,Special,https://gbf.wiki/Helel_ben_Shalem
+SSR,Dark,Lelouch Lamperouge,Tie-In / Collab,-,Gun,-,Human,-,Balanced,https://gbf.wiki/Lelouch_Lamperouge
+SSR,Dark,Manamel,Permanent,-,Dagger,-,Erune,-,Attack,https://gbf.wiki/Manamel
+SSR,Dark,Meg and Mari,Permanent,-,Dagger,Melee,Human,Erune,Special,https://gbf.wiki/Meg_and_Mari
+SSR,Dark,Narmaya,Permanent,-,Katana,-,Draph,-,Attack,https://gbf.wiki/Narmaya
+SSR,Dark,Rei,Grand,-,Staff,Katana,Harvin,-,Special,https://gbf.wiki/Rei
+SSR,Dark,Tabina,Summer,-,Axe,Bow,Human,-,Attack,https://gbf.wiki/Tabina_(Summer)
+SSR,Dark,Vaseraga,Permanent,-,Axe,-,Draph,-,Attack,https://gbf.wiki/Vaseraga
+SSR,Dark,Veight,Permanent,-,Dagger,-,Other,-,Attack,https://gbf.wiki/Veight
+SSR,Dark,Wulf and Renie,Permanent,-,Melee,Gun,Other,-,Attack,https://gbf.wiki/Wulf_and_Renie
+SSR,Fire,Icarus,Permanent,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Icarus
+SSR,Fire,Metera,Permanent,-,Bow,-,Erune,-,Attack,https://gbf.wiki/Metera_(Fire)
+SSR,Fire,Mugen,Grand,-,Melee,Harp,Draph,-,Attack,https://gbf.wiki/Mugen
+SSR,Fire,Reinhardtzar,Grand,-,Melee,-,Draph,-,Attack,https://gbf.wiki/Reinhardtzar_(Grand)
+SSR,Fire,Sylph,Permanent,-,Staff,-,Primal,-,Special,https://gbf.wiki/Sylph
+SSR,Fire,Teena,Summer,-,Staff,-,Human,-,Balanced,https://gbf.wiki/Teena_(Summer)
+SSR,Fire,Vaseraga,Permanent,-,Axe,-,Draph,-,Attack,https://gbf.wiki/Vaseraga_(Fire)
+SSR,Fire,Yuisis,Permanent,-,Sabre,Katana,Erune,-,Attack,https://gbf.wiki/Yuisis_(Fire)
+SSR,Fire,Altair,Holiday,-,Staff,-,Human,-,Balanced,https://gbf.wiki/Altair_(Holiday)
+SSR,Fire,Anna,Permanent,-,Staff,-,Human,-,Attack,https://gbf.wiki/Anna_(SSR)
+SSR,Fire,Aoidos,Permanent,-,Sabre,Harp,Human,-,Special,https://gbf.wiki/Aoidos
+SSR,Fire,Colossus,Permanent,-,Sabre,Axe,Primal,-,Attack,https://gbf.wiki/Colossus
+SSR,Fire,Danua,Halloween,-,Dagger,Axe,Draph,-,Special,https://gbf.wiki/Danua_(Halloween)
+SSR,Fire,Ghandagoza,Permanent,-,Melee,-,Draph,-,Attack,https://gbf.wiki/Ghandagoza
+SSR,Fire,Heles,Permanent,-,Spear,Staff,Erune,-,Attack,https://gbf.wiki/Heles
+SSR,Fire,Illnott,Permanent,-,Gun,-,Human,-,Attack,https://gbf.wiki/Illnott
+SSR,Fire,Kyojuro Rengoku,Tie-In / Collab,-,Katana,-,Human,-,Attack,https://gbf.wiki/Kyojuro_Rengoku
+SSR,Fire,Lancelot and Vane,Permanent,-,Sabre,Spear,Human,-,Attack,https://gbf.wiki/Lancelot_and_Vane
+SSR,Fire,Mirin,Summer,-,Katana,-,Human,-,Heal,https://gbf.wiki/Mirin_(Summer)
+SSR,Fire,Naoise,Permanent,-,Spear,-,Human,-,Defense,https://gbf.wiki/Naoise_(Fire)
+SSR,Fire,Scathacha,Valentine,-,Melee,-,Erune,-,Heal,https://gbf.wiki/Scathacha_(Valentine)
+SSR,Fire,Shinsengumi,Tie-In / Collab,-,Katana,Gun,Human,-,Attack,https://gbf.wiki/Shinsengumi
+SSR,Fire,Tabina,Permanent,-,Bow,Axe,Human,-,Attack,https://gbf.wiki/Tabina
+SSR,Fire,Abby,Permanent,-,Axe,-,Human,-,Attack,https://gbf.wiki/Abby
+SSR,Fire,Baal,Permanent,-,Harp,Axe,Primal,-,Attack,https://gbf.wiki/Baal_(Fire)
+SSR,Fire,Enyo,Summer,-,Spear,-,Primal,-,Attack,https://gbf.wiki/Enyo_(Summer)
+SSR,Fire,Ilsa,Summer,-,Bow,Gun,Erune,-,Attack,https://gbf.wiki/Ilsa_(Summer)
+SSR,Fire,Magisa,Permanent,-,Staff,Melee,Human,-,Special,https://gbf.wiki/Magisa
+SSR,Fire,Rackam,Grand,-,Gun,-,Human,-,Special,https://gbf.wiki/Rackam_(Grand)
+SSR,Fire,Therese,Permanent,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Therese_(SSR)
+SSR,Fire,Tsubasa,Permanent,-,Melee,-,Human,-,Attack,https://gbf.wiki/Tsubasa
+SSR,Fire,Grea,Permanent,-,Melee,-,Other,-,Attack,https://gbf.wiki/Grea
+SSR,Fire,Percival,Permanent,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Percival
+SSR,Fire,Vira,Permanent,-,Sabre,-,Human,-,Special,https://gbf.wiki/Vira_(Promo)
+SSR,Fire,Aliza,Permanent,-,Melee,-,Draph,-,Attack,https://gbf.wiki/Aliza
+SSR,Fire,Aqours Third-Years,Tie-In / Collab,-,Spear,Gun,Human,-,Defense,https://gbf.wiki/Aqours_Third-Years
+SSR,Fire,Clarisse,Permanent,-,Staff,-,Human,-,Special,https://gbf.wiki/Clarisse
+SSR,Fire,Drang,Permanent,-,Staff,-,Erune,-,Special,https://gbf.wiki/Drang
+SSR,Fire,Io,Summer,-,Staff,-,Human,-,Attack,https://gbf.wiki/Io_(Summer)
+SSR,Fire,Kallen Kouzuki,Tie-In / Collab,-,Melee,-,Human,-,Attack,https://gbf.wiki/Kallen_Kouzuki
+SSR,Fire,Percival,Summer,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Percival_(Summer)
+SSR,Fire,Zahlhamelina,Permanent,-,Staff,-,Harvin,-,Special,https://gbf.wiki/Zahlhamelina
+SSR,Water,Drang,Grand,-,Staff,-,Erune,-,Special,https://gbf.wiki/Drang_(Grand)
+SSR,Water,Erin,Permanent,-,Staff,-,Other,-,Heal,https://gbf.wiki/Erin_(SSR)
+SSR,Water,Europa,Grand,-,Staff,-,Primal,-,Heal,https://gbf.wiki/Europa
+SSR,Water,Katalina,Grand,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Katalina_(Grand)
+SSR,Water,Lecia,Permanent,-,Sabre,Gun,Human,-,Attack,https://gbf.wiki/Lecia_(Water)
+SSR,Water,Mirin,Holiday,-,Katana,-,Human,-,Balanced,https://gbf.wiki/Mirin_(Holiday)
+SSR,Water,Narmaya,Summer,-,Katana,-,Draph,-,Attack,https://gbf.wiki/Narmaya_(Summer)
+SSR,Water,Sophia,Permanent,-,Staff,-,Human,-,Heal,https://gbf.wiki/Sophia_(Water)
+SSR,Water,Vaseraga,Summer,-,Axe,-,Draph,-,Defense,https://gbf.wiki/Vaseraga_(Summer)
+SSR,Water,Wamdus,Grand,-,Staff,Axe,Harvin,-,Defense,https://gbf.wiki/Wamdus
+SSR,Water,Altair,Permanent,-,Staff,-,Human,-,Balanced,https://gbf.wiki/Altair
+SSR,Water,Chat Noir,Permanent,-,Staff,Dagger,Human,-,Special,https://gbf.wiki/Chat_Noir
+SSR,Water,Diantha,Summer,-,Harp,-,Human,-,Special,https://gbf.wiki/Diantha_(Summer)
+SSR,Water,Fediel,Summer,-,Melee,Sabre,Draph,-,Special,https://gbf.wiki/Fediel_(Summer)
+SSR,Water,Grea,Summer,-,Melee,-,Other,-,Attack,https://gbf.wiki/Grea_(Summer)
+SSR,Water,Lancelot,Permanent,-,Sabre,Dagger,Human,-,Attack,https://gbf.wiki/Lancelot
+SSR,Water,Milleore and Sahli Lao,Permanent,-,Gun,Bow,Harvin,-,Attack,https://gbf.wiki/Milleore_and_Sahli_Lao
+SSR,Water,Pholia,Grand,-,Staff,Melee,Erune,-,Special,https://gbf.wiki/Pholia
+SSR,Water,Shura,Permanent,-,Spear,-,Human,-,Balanced,https://gbf.wiki/Shura
+SSR,Water,Siegfried,Summer,-,Spear,-,Human,-,Defense,https://gbf.wiki/Siegfried_(Summer)
+SSR,Water,"Tanjiro, Nezuko, Zenitsu, and Inosuke",Tie-In / Collab,-,Katana,-,Human,-,Balanced,"https://gbf.wiki/Tanjiro,_Nezuko,_Zenitsu,_and_Inosuke"
+SSR,Water,Troue,Permanent,-,Sabre,-,Erune,-,Special,https://gbf.wiki/Troue
+SSR,Water,Vania and Malinda,Permanent,-,Staff,Melee,Other,-,Special,https://gbf.wiki/Vania_and_Malinda
+SSR,Water,Doraemon,Tie-In / Collab,-,Gun,Katana,Other,-,Special,https://gbf.wiki/Doraemon
+SSR,Water,Izmir,Permanent,-,Sabre,-,Draph,-,Attack,https://gbf.wiki/Izmir
+SR,Water,Leona,Yukata,-,Spear,-,Human,-,Attack,https://gbf.wiki/Leona_(Yukata)
+SSR,Water,Macula Marius,Permanent,-,Staff,-,Primal,-,Special,https://gbf.wiki/Macula_Marius
+SSR,Water,Sen,Valentine,-,Melee,-,Erune,-,Attack,https://gbf.wiki/Sen_(Valentine)
+SSR,Water,Silva,Permanent,-,Gun,-,Human,-,Attack,https://gbf.wiki/Silva
+SSR,Water,Yngwie,Permanent,-,Melee,Gun,Human,-,Defense,https://gbf.wiki/Yngwie
+SSR,Water,Aglovale,Permanent,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Aglovale
+SSR,Water,Europa,Summer,-,Staff,-,Primal,-,Balanced,https://gbf.wiki/Europa_(Summer)
+SSR,Water,Aqours Second-Years,Tie-In / Collab,-,Sabre,Gun,Human,-,Balanced,https://gbf.wiki/Aqours_Second-Years
+SSR,Water,Arulumaya,Holiday,-,Staff,-,Harvin,-,Special,https://gbf.wiki/Arulumaya_(Holiday)
+SSR,Water,Charlotta,Permanent,-,Sabre,-,Harvin,-,Balanced,https://gbf.wiki/Charlotta
+SSR,Water,Lady Katapillar and Vira,Fantasy,-,Melee,Gun,Other,-,Special,https://gbf.wiki/Lady_Katapillar_and_Vira
+SSR,Earth,Adam,Permanent,-,Sabre,-,Other,-,Defense,https://gbf.wiki/Adam
+SSR,Earth,Alexiel,Grand,-,Sabre,Katana,Primal,-,Defense,https://gbf.wiki/Alexiel
+SSR,Earth,Baal,Permanent,-,Harp,Axe,Primal,-,Balanced,https://gbf.wiki/Baal
+SSR,Earth,Beatrix,Permanent,-,Sabre,-,Human,-,Special,https://gbf.wiki/Beatrix_(Earth)
+SSR,Earth,Eugen,Grand,-,Gun,-,Human,-,Attack,https://gbf.wiki/Eugen_(Grand)
+SSR,Earth,Hallessena,Permanent,-,Axe,-,Draph,-,Attack,https://gbf.wiki/Hallessena
+SSR,Earth,Jessica,Yukata,-,Gun,-,Human,-,Heal,https://gbf.wiki/Jessica_(Yukata)
+SSR,Earth,Lamretta,Permanent,-,Melee,-,Draph,-,Special,https://gbf.wiki/Lamretta_(SSR)
+SSR,Earth,Leona,Grand,-,Spear,-,Human,-,Attack,https://gbf.wiki/Leona_(Grand)
+SSR,Earth,Melleau,Permanent,-,Spear,Axe,Erune,-,Attack,https://gbf.wiki/Melleau
+SSR,Earth,Mireille and Risette,Permanent,-,Dagger, melee,Human,-,Attack,https://gbf.wiki/Mireille_and_Risette
+SSR,Earth,Orchid,Permanent,-,Dagger,Melee,Other,-,Special,https://gbf.wiki/Orchid
+SSR,Earth,Paris,Permanent,-,Sabre,-,Human,-,Defense,https://gbf.wiki/Paris
+SSR,Earth,Sara,Permanent,-,Melee,-,Human,-,Defense,https://gbf.wiki/Sara
+SSR,Earth,Siegfried,Permanent,-,Sabre,Katana,Human,-,Special,https://gbf.wiki/Siegfried
+SSR,Earth,Ayer,Permanent,-,Melee,-,Human,-,Special,https://gbf.wiki/Ayer
+SSR,Earth,Benjamin,Fantasy,-,Sabre,Harp,Human,-,Attack,https://gbf.wiki/Benjamin
+SSR,Earth,Cagliostro,Permanent,-,Staff,-,Human,-,Heal,https://gbf.wiki/Cagliostro
+SSR,Earth,Cain,Grand,-,Katana,-,Human,-,Special,https://gbf.wiki/Cain_(Grand)
+SSR,Earth,Medusa,Valentine,-,Melee,-,Primal,-,Balanced,https://gbf.wiki/Medusa_(Valentine)
+SSR,Earth,Silva,Summer,-,Gun,-,Human,-,Attack,https://gbf.wiki/Silva_(Summer)
+SSR,Earth,Tikoh,Summer,-,Staff,-,Erune,-,Heal,https://gbf.wiki/Tikoh_(Summer)
+SSR,Earth,Yggdrasil,Permanent,-,Melee,-,Primal,-,Special,https://gbf.wiki/Yggdrasil
+SSR,Earth,Aglovale and Tor,Permanent,-,Sabre,-,Human,-,Special,https://gbf.wiki/Aglovale_and_Tor
+SSR,Earth,Diantha,Permanent,-,Harp,-,Human,-,Heal,https://gbf.wiki/Diantha
+SSR,Earth,Eustace,Permanent,-,Gun,-,Erune,-,Attack,https://gbf.wiki/Eustace
+SSR,Earth,Medusa,Permanent,-,Melee,-,Primal,-,Balanced,https://gbf.wiki/Medusa
+SSR,Earth,"Special Week, Silence Suzuka, and Tokai Teio",Tie-In / Collab,-,Melee,-,Other,-,Balanced,"https://gbf.wiki/Special_Week,_Silence_Suzuka,_and_Tokai_Teio"
+SSR,Earth,Eustace,Halloween,-,Gun,-,Erune,-,Attack,https://gbf.wiki/Eustace_(Halloween)
+SSR,Earth,Ilsa,Permanent,-,Gun,Bow,Erune,-,Attack,https://gbf.wiki/Ilsa
+SSR,Earth,Aqours First-Years,Tie-In / Collab,-,Staff,-,Human,-,Heal,https://gbf.wiki/Aqours_First-Years
+SSR,Earth,De La Fille,Permanent,-,Sabre,-,Human,-,Heal,https://gbf.wiki/De_La_Fille_(Earth)
+SSR,Earth,Jamil,Permanent,-,Dagger,-,Human,-,Attack,https://gbf.wiki/Jamil_(SSR)
+SSR,Earth,Rosetta,Summer,-,Dagger,-,Primal,-,Special,https://gbf.wiki/Rosetta_(Summer)
+SSR,Earth,Vaseraga,Permanent,-,Axe,-,Draph,-,Attack,https://gbf.wiki/Vaseraga_(Earth)
+SSR,Wind,Cantate,Permanent,-,Harp,-,Erune,-,Attack,https://gbf.wiki/Cantate
+SSR,Wind,Enyo,Permanent,-,Spear,-,Primal,-,Attack,https://gbf.wiki/Enyo
+SSR,Wind,Lecia,Grand,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Lecia_(Grand)
+SSR,Wind,Lily,Permanent,-,Staff,-,Other,-,Heal,https://gbf.wiki/Lily_(Wind)
+SSR,Wind,Nectar,Permanent,-,Bow,Katana,Other,-,Attack,https://gbf.wiki/Nectar
+SSR,Wind,Nezahualpilli,Permanent,-,Spear,-,Human,-,Attack,https://gbf.wiki/Nezahualpilli
+SSR,Wind,Randall,Permanent,-,Melee,-,Human,-,Attack,https://gbf.wiki/Randall_(SSR)
+SSR,Wind,Scathacha,Permanent,-,Melee,-,Erune,-,Attack,https://gbf.wiki/Scathacha
+SSR,Wind,Siegfried,Yukata,-,Sabre,Katana,Human,-,Attack,https://gbf.wiki/Siegfried_(Yukata)
+SSR,Wind,Yuisis,Permanent,-,Sabre,Katana,Erune,-,Balanced,https://gbf.wiki/Yuisis
+SSR,Wind,Yurius,Permanent,-,Sabre,Staff,Human,-,Special,https://gbf.wiki/Yurius
+SSR,Wind,Eustace,Summer,-,Gun,Dagger,Erune,-,Attack,https://gbf.wiki/Eustace_(Summer)
+SSR,Wind,Florence,Permanent,-,Staff,-,Human,-,Special,https://gbf.wiki/Florence
+SSR,Wind,Naoise,Permanent,-,Dagger,Bow,Human,-,Special,https://gbf.wiki/Naoise
+SSR,Wind,Societte,Permanent,-,Melee,Harp,Erune,-,Heal,https://gbf.wiki/Societte_(Wind)
+SSR,Wind,Ultimate Friday,Fantasy,-,Melee,Spear,Human,-,Balanced,https://gbf.wiki/Ultimate_Friday
+SSR,Wind,Yngwie,Yukata,-,Gun,Melee,Human,-,Defense,https://gbf.wiki/Yngwie_(Yukata)
+SSR,Wind,Albert,Summer,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Albert_(Summer)
+SSR,Wind,Freyr,Permanent,-,Sabre,-,Primal,-,Attack,https://gbf.wiki/Freyr
+SSR,Wind,Gawain,Permanent,-,Axe,Spear,Human,-,Defense,https://gbf.wiki/Gawain
+SSR,Wind,Heles,Permanent,-,Spear,-,Erune,-,Attack,https://gbf.wiki/Heles_(Wind)
+SSR,Wind,Jeanne d'Arc,Summer,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Jeanne_d%27Arc_(Summer)
+SSR,Wind,Kokkoro,Tie-In / Collab,-,Spear,-,Other,-,Balanced,https://gbf.wiki/Kokkoro
+SSR,Wind,Lancelot,Permanent,-,Sabre,Dagger,Human,-,Attack,https://gbf.wiki/Lancelot_(Wind)
+SSR,Wind,Lennah,Permanent,-,Staff,-,Human,-,Heal,https://gbf.wiki/Lennah
+SSR,Wind,Morrigna,Permanent,-,Staff,-,Primal,-,Special,https://gbf.wiki/Morrigna
+SSR,Wind,Seruel,Holiday,-,Sabre,Dagger,Erune,-,Defense,https://gbf.wiki/Seruel_(Holiday)
+SSR,Wind,Shinobu Kocho,Tie-In / Collab,-,Katana,-,Human,-,Heal,https://gbf.wiki/Shinobu_Kocho
+SSR,Wind,Therese,Permanent,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Therese_(Wind)
+SSR,Wind,Vira,Fantasy,-,Harp,Melee,Human,-,Attack,https://gbf.wiki/Vira_(Wind)
+SSR,Wind,Yggdrasil,Permanent,-,Melee,-,Primal,-,Special,https://gbf.wiki/Yggdrasil_(Wind)
+SSR,Wind,Metera,Permanent,-,Bow,-,Erune,-,Balanced,https://gbf.wiki/Metera
+SSR,Wind,Alliah,Permanent,-,Sabre,-,Erune,-,Special,https://gbf.wiki/Alliah
+SSR,Wind,Arriet,Permanent,-,Harp,-,Human,-,Special,https://gbf.wiki/Arriet
+SSR,Wind,Carmelina,Permanent,-,Dagger,-,Draph,-,Special,https://gbf.wiki/Carmelina
+SSR,Wind,Ewiyar,Permanent,-,Melee,-,Other,-,Special,https://gbf.wiki/Ewiyar
+SSR,Wind,Levi,Tie-In / Collab,-,Sabre,Katana,Human,-,Attack,https://gbf.wiki/Levi
+SSR,Wind,Lilisette,Tie-In / Collab,-,Dagger,-,Other,-,Balanced,https://gbf.wiki/Lilisette
+SSR,Wind,Mimori Amamiya,Tie-In / Collab,-,Harp,-,Human,-,Balanced,https://gbf.wiki/Mimori_Amamiya
+SR,Wind,Mirin,Permanent,-,Katana,-,Human,-,Attack,https://gbf.wiki/Mirin
+SSR,Wind,Monika,Permanent,-,Sabre,Katana,Human,-,Balanced,https://gbf.wiki/Monika
+SSR,Wind,Stan and Aliza,Permanent,-,Sabre,Melee,Erune,Draph,Attack,https://gbf.wiki/Stan_and_Aliza
+SSR,Wind,μ's First-Years,Tie-In / Collab,-,Harp,Staff,Human,-,Heal,https://gbf.wiki/%CE%9C%27s_First-Years
+SSR,Light,Arthur,Permanent,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Arthur
+SSR,Light,Dorothy and Claudia,Permanent,-,Gun,Melee,Human,-,Special,https://gbf.wiki/Dorothy_and_Claudia
+SSR,Light,Feather,Permanent,-,Melee,-,Human,-,Attack,https://gbf.wiki/Feather_(SSR)
+SSR,Light,Grea,Permanent,-,Melee,-,Other,-,Special,https://gbf.wiki/Grea_(Light)
+SSR,Light,Ilsa,Permanent,-,Gun,Bow,Erune,-,Defense,https://gbf.wiki/Ilsa_(Light)
+SSR,Light,Jeanne d'Arc,Permanent,-,Sabre,Spear,Human,-,Balanced,https://gbf.wiki/Jeanne_d%27Arc
+SSR,Light,Levin Sisters,Permanent,-,Sabre,Melee,Human,-,Special,https://gbf.wiki/Levin_Sisters
+SSR,Light,Lunalu,Fantasy,-,Sabre,-,Harvin,-,Attack,https://gbf.wiki/Lunalu_(Light)
+SSR,Light,Mary,Holiday,-,Gun,-,Human,-,Balanced,https://gbf.wiki/Mary_(Holiday)
+SSR,Light,Metera,Holiday,-,Bow,-,Erune,-,Balanced,https://gbf.wiki/Metera_(Holiday)
+SSR,Light,Robomi,Permanent,-,Gun,-,Other,-,Attack,https://gbf.wiki/Robomi
+SSR,Light,Rosamia,Yukata,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Rosamia_(Yukata)
+SSR,Light,Sara,Permanent,-,Melee,-,Human,-,Defense,https://gbf.wiki/Sara_(Light)
+SSR,Light,Seruel,Summer,-,Sabre,-,Erune,-,Balanced,https://gbf.wiki/Seruel_(Summer)
+SSR,Light,Arulumaya,Permanent,-,Staff,-,Harvin,-,Defense,https://gbf.wiki/Arulumaya_(Light)
+SSR,Light,Charlotta,Permanent,-,Sabre,-,Harvin,-,Attack,https://gbf.wiki/Charlotta_(Light)
+SSR,Light,Charlotta,Halloween,-,Sabre,-,Harvin,-,Heal,https://gbf.wiki/Charlotta_(Halloween)
+SSR,Light,Ladiva,Valentine,-,Melee,-,Draph,-,Heal,https://gbf.wiki/Ladiva_(Valentine)
+SSR,Light,Lily,Holiday,-,Staff,-,Other,-,Heal,https://gbf.wiki/Lily_(Holiday)
+SSR,Light,Mishra,Permanent,-,Staff,-,Erune,-,Special,https://gbf.wiki/Mishra_(SSR)
+SSR,Light,New Generations,Tie-In / Collab,-,Sabre,Gun,Human,-,Balanced,https://gbf.wiki/New_Generations
+SSR,Light,Nobita,Tie-In / Collab,-,Gun,-,Human,-,Attack,https://gbf.wiki/Nobita
+SSR,Light,Sarunan,Permanent,-,Staff,-,Erune,-,Special,https://gbf.wiki/Sarunan
+SSR,Light,Silva,Permanent,-,Gun,-,Human,-,Attack,https://gbf.wiki/Silva_(Light)
+SSR,Light,Zooey,Permanent,-,Gun,Sabre,Primal,-,Balanced,https://gbf.wiki/Zooey
+SSR,Light,Bobobo-bo Bo-bobo,Tie-In / Collab,-,Melee,Staff,Human,-,Special,https://gbf.wiki/Bobobo-bo_Bo-bobo
+SSR,Light,Clarisse,Permanent,-,Staff,-,Human,-,Attack,https://gbf.wiki/Clarisse_(Light)
+SSR,Light,Drusilla,Permanent,-,Dagger,-,Harvin,-,Special,https://gbf.wiki/Drusilla_(SSR)
+SSR,Light,Naoise,Summer,-,Spear,-,Human,-,Defense,https://gbf.wiki/Naoise_(Summer)
+SSR,Light,Percival,Permanent,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Percival_(Light)
+SSR,Light,Seruel,Permanent,-,Sabre,-,Erune,-,Attack,https://gbf.wiki/Seruel
+SSR,Light,Yorozuya,Tie-In / Collab,-,Katana,Melee,Human,-,Balanced,https://gbf.wiki/Yorozuya
+SSR,Light,Farrah and Juri,Permanent,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Farrah_and_Juri
+SSR,Light,Shitori,Permanent,-,Bow,Katana,Human,-,Balanced,https://gbf.wiki/Shitori
+SSR,Light,Amira,Permanent,-,Melee,-,Other,-,Special,https://gbf.wiki/Amira
+SSR,Light,Danua,Permanent,-,Dagger,Axe,Draph,-,Special,https://gbf.wiki/Danua_(SSR)
+SSR,Light,Heles,Summer,-,Spear,-,Erune,-,Balanced,https://gbf.wiki/Heles_(Summer)
+SSR,Light,Rosamia,Permanent,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Rosamia_(SSR)
+SSR,Light,Sophia,Permanent,-,Staff,-,Human,-,Heal,https://gbf.wiki/Sophia
+SSR,Light,μ's Second-Years,Tie-In / Collab,-,Bow,Staff,Human,-,Balanced,https://gbf.wiki/%CE%9C%27s_Second-Years
+SSR,Dark,Eustace,Permanent,-,Gun,Dagger,Erune,-,Attack,https://gbf.wiki/Eustace_(Dark)
+SSR,Dark,Freezie,Fantasy,-,Gun,-,Erune,-,Special,https://gbf.wiki/Freezie
+SSR,Dark,Jessica,Permanent,-,Gun,-,Human,-,Balanced,https://gbf.wiki/Jessica_(SSR)
+SSR,Dark,Kolulu,Permanent,-,Spear,-,Human,-,Special,https://gbf.wiki/Kolulu
+SSR,Dark,Kou,Permanent,-,Katana,Harp,Erune,-,Heal,https://gbf.wiki/Kou
+SSR,Dark,Lady Grey,Halloween,-,Spear,Melee,Human,-,Special,https://gbf.wiki/Lady_Grey_(Halloween)
+SSR,Dark,Vania,Permanent,-,Staff,Dagger,Other,-,Special,https://gbf.wiki/Vania
+SSR,Dark,Yuji Itadori and Megumi Fushiguro,Tie-In / Collab,-,Melee,Katana,Human,-,Attack,https://gbf.wiki/Yuji_Itadori_and_Megumi_Fushiguro
+SSR,Dark,Zooey,Summer,Grand,Sabre,-,Primal,-,Special,https://gbf.wiki/Zooey_(Grand)
+SSR,Dark,Ferry,Grand,-,Dagger,-,Erune,-,Special,https://gbf.wiki/Ferry_(Grand)
+SSR,Dark,Fiorito,Holiday,-,Melee,-,Human,-,Attack,https://gbf.wiki/Fiorito_(Holiday)
+SSR,Dark,Jasmine,Permanent,-,Staff,-,Human,-,Heal,https://gbf.wiki/Jasmine_(SSR)
+SSR,Dark,Joker,Tie-In / Collab,-,Dagger,Gun,Human,-,Special,https://gbf.wiki/Joker
+SSR,Dark,Lady Grey,Permanent,-,Spear,Melee,Human,-,Special,https://gbf.wiki/Lady_Grey
+SSR,Dark,Lucius,Permanent,-,Sabre,Katana,Human,-,Attack,https://gbf.wiki/Lucius_(SSR)
+SSR,Dark,Lunalu,Permanent,-,Staff,-,Harvin,-,Special,https://gbf.wiki/Lunalu_(SSR)
+SSR,Dark,Yuel and Societte,Permanent,-,Katana,Harp,Erune,-,Balanced,https://gbf.wiki/Yuel_and_Societte
+SSR,Dark,Azazel,Permanent,-,Dagger,Melee,Primal,-,Attack,https://gbf.wiki/Azazel
+SSR,Dark,Cagliostro,Permanent,-,Staff,-,Human,-,Heal,https://gbf.wiki/Cagliostro_(Dark)
+SSR,Dark,Vira,Permanent,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Vira_(SSR)
+SSR,Dark,Cagliostro,Halloween,-,Staff,-,Human,-,Balanced,https://gbf.wiki/Cagliostro_(Halloween)
+SSR,Dark,Jeanne d'Arc,Permanent,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Jeanne_d%27Arc_(Dark)
+SSR,Dark,Nicholas,Permanent,-,Katana,-,Human,-,Defense,https://gbf.wiki/Nicholas
+SSR,Dark,Rosetta,Holiday,-,Dagger,-,Primal,-,Heal,https://gbf.wiki/Rosetta_(Holiday)
+SSR,Dark,Vajra,Summer,Zodiac,Katana,Melee,Erune,-,Attack,https://gbf.wiki/Vajra_(Summer)
+SSR,Dark,μ's Third-Years,Tie-In / Collab,-,Harp,Staff,Human,-,Defense,https://gbf.wiki/%CE%9C%27s_Third-Years
+SSR,Dark,Beatrix,Permanent,-,Sabre,-,Human,-,Special,https://gbf.wiki/Beatrix
+SSR,Dark,Black Knight and Orchis,Permanent,-,Sabre,-,Human,-,Defense,https://gbf.wiki/Black_Knight_and_Orchis
+SSR,Dark,Seox,Eternals,-,Melee,-,Erune,-,Attack,https://gbf.wiki/Seox_(Event)
+R,Dark,Vikala,Zodiac,-,Axe,Melee,Human,-,Balanced,https://gbf.wiki/Vikala_(Event)
+SR,Any,Lyria,Permanent,-,Melee,-,Human,-,Special,https://gbf.wiki/Lyria_(Event)
+SSR,Fire,Charioce XVII,Permanent,-,Sabre,-,Human,-,Special,https://gbf.wiki/Charioce_XVII
+SSR,Fire,Iroha,Tie-In / Collab,-,Spear,-,Human,-,Special,https://gbf.wiki/Iroha
+SSR,Fire,Lilele,Permanent,-,Harp,-,Harvin,-,Heal,https://gbf.wiki/Lilele_(Fire)
+SSR,Fire,Societte,Permanent,-,Melee,Harp,Erune,-,Defense,https://gbf.wiki/Societte_(Fire)
+SSR,Water,Cucouroux,Permanent,-,Gun,-,Human,-,Balanced,https://gbf.wiki/Cucouroux_(SSR)
+SSR,Water,Izmir,Summer,-,Sabre,-,Draph,-,Attack,https://gbf.wiki/Izmir_(Summer)
+SR,Water,Owen,Permanent,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Owen
+SSR,Earth,Catherine,Permanent,-,Gun,-,Erune,-,Special,https://gbf.wiki/Catherine
+R,Earth,Catura,Zodiac,-,Spear,Melee,Draph,-,Special,https://gbf.wiki/Catura_(Event)
+SSR,Earth,Clarisse,Holiday,-,Staff,-,Human,-,Special,https://gbf.wiki/Clarisse_(Holiday)
+SSR,Earth,Herja,Permanent,-,Sabre,-,Human,-,Defense,https://gbf.wiki/Herja_(SSR)
+SSR,Earth,Jin,Permanent,-,Katana,-,Human,-,Attack,https://gbf.wiki/Jin
+SSR,Earth,Laguna,Permanent,-,Spear,-,Draph,-,Special,https://gbf.wiki/Laguna_(SSR)
+SR,Earth,Nezahualpilli,Permanent,-,Spear,-,Human,-,Attack,https://gbf.wiki/Nezahualpilli_(SR)
+SSR,Earth,Razia,Permanent,-,Spear,Gun,Draph,-,Defense,https://gbf.wiki/Razia
+SR,Earth,Walder,Permanent,-,Dagger,-,Human,-,Special,https://gbf.wiki/Walder_(Event)
+SR,Earth,Yaia,Permanent,-,Sabre,-,Draph,-,Special,https://gbf.wiki/Yaia
+SSR,Wind,Christina,Permanent,-,Gun,Dagger,Human,-,Balanced,https://gbf.wiki/Christina
+SSR,Wind,Feena,Permanent,-,Bow,-,Human,-,Attack,https://gbf.wiki/Feena
+SSR,Wind,Gachapin,Tie-In / Collab,-,Sabre,Melee,Other,-,Balanced,https://gbf.wiki/Gachapin
+SR,Wind,Juri,Permanent,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Juri
+SSR,Wind,Kaede Takagaki,Tie-In / Collab,-,Staff,Harp,Human,-,Special,https://gbf.wiki/Kaede_Takagaki
+SSR,Wind,Korwa,Permanent,-,Staff,-,Erune,-,Special,https://gbf.wiki/Korwa
+SSR,Wind,Sen,Permanent,-,Melee,-,Erune,-,Attack,https://gbf.wiki/Sen_(SSR)
+SSR,Wind,Seofon,Fantasy,Eternals,Sabre,-,Human,-,Attack,https://gbf.wiki/Seofon_(Event)
+SR,Wind,Sevilbarra,Permanent,-,Katana,-,Harvin,-,Attack,https://gbf.wiki/Sevilbarra
+SSR,Wind,Suzaku Kururugi,Tie-In / Collab,-,Sabre,Melee,Human,-,Attack,https://gbf.wiki/Suzaku_Kururugi
+SR,Wind,Yaia,Holiday,-,Sabre,-,Draph,-,Special,https://gbf.wiki/Yaia_(Holiday)
+SSR,Light,Cure Black and Cure White,Tie-In / Collab,-,Melee,-,Human,-,Attack,https://gbf.wiki/Cure_Black_and_Cure_White
+SSR,Light,De La Fille,Summer,-,Sabre,-,Human,-,Heal,https://gbf.wiki/De_La_Fille_(Summer)
+SSR,Light,Mikazuki Munechika,Tie-In / Collab,-,Katana,-,Other,-,Balanced,https://gbf.wiki/Mikazuki_Munechika
+SSR,Light,Pecorine,Tie-In / Collab,-,Sabre,-,Human,-,Defense,https://gbf.wiki/Pecorine
+SSR,Light,Sakura Kinomoto,Tie-In / Collab,-,Staff,-,Human,-,Special,https://gbf.wiki/Sakura_Kinomoto
+SSR,Light,Zooey,Permanent,-,Sabre,-,Primal,-,Balanced,https://gbf.wiki/Zooey_(Promo)
+SSR,Dark,Danua,Summer,-,Dagger,-,Draph,-,Special,https://gbf.wiki/Danua_(Summer)
+SSR,Dark,Forte,Permanent,-,Spear,-,Draph,-,Attack,https://gbf.wiki/Forte
+SSR,Dark,Karyl,Tie-In / Collab,-,Staff,-,Other,-,Attack,https://gbf.wiki/Karyl
+SSR,Dark,Katalina,Permanent,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Katalina_(Promo)
+SSR,Dark,Marquiares,Permanent,-,Staff,-,Harvin,-,Special,https://gbf.wiki/Marquiares
+SR,Dark,Skull,Permanent,-,Gun,Melee,Harvin,-,Attack,https://gbf.wiki/Skull
+SSR,Dark,Zeta,Permanent,-,Spear,-,Human,-,Attack,https://gbf.wiki/Zeta_(Dark)
+SR,Fire,Friday,Summer,-,Melee,Gun,Human,-,Balanced,https://gbf.wiki/Friday_(Summer)
+SR,Fire,Beatrix,Halloween,-,Sabre,-,Human,-,Special,https://gbf.wiki/Beatrix_(Halloween)
+SR,Fire,Dante,Permanent,-,Staff,-,Human,-,Attack,https://gbf.wiki/Dante_(SR)
+SR,Fire,Ferry,Summer,-,Dagger,-,Erune,-,Special,https://gbf.wiki/Ferry_(Summer)
+SSR,Fire,Hiro Ryugasaki,Tie-In / Collab,-,Melee,-,Human,-,Attack,https://gbf.wiki/Hiro_Ryugasaki
+SR,Fire,Sutera,Permanent,-,Bow,-,Erune,-,Defense,https://gbf.wiki/Sutera_(Fire)
+SR,Water,Ejaeli,Permanent,-,Harp,-,Human,-,Balanced,https://gbf.wiki/Ejaeli
+SR,Water,Katalina,Summer,-,Sabre,-,Human,-,Defense,https://gbf.wiki/Katalina_(Summer)
+SR,Water,Katalina,Permanent,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Katalina
+SSR,Water,Lilele,Permanent,-,Harp,-,Harvin,-,Special,https://gbf.wiki/Lilele
+SR,Water,Minami Nitta,Tie-In / Collab,-,Spear,-,Human,-,Balanced,https://gbf.wiki/Minami_Nitta
+SR,Water,Morphe and Phoebe,Permanent,-,Harp,-,Other,-,Special,https://gbf.wiki/Morphe_and_Phoebe_(Event)
+SR,Earth,Ayer,Summer,-,Melee,-,Human,-,Attack,https://gbf.wiki/Ayer_(Summer)
+SR,Earth,Gayne,Permanent,-,Sabre,-,Human,-,Special,https://gbf.wiki/Gayne
+SR,Earth,Jamil,Permanent,-,Dagger,-,Human,-,Special,https://gbf.wiki/Jamil
+SR,Earth,Jasmine,Permanent,-,Staff,-,Human,-,Heal,https://gbf.wiki/Jasmine_(SR)
+SR,Earth,Lancelot and Vane,Summer,-,Sabre,Spear,Human,-,Defense,https://gbf.wiki/Lancelot_and_Vane_(Summer)
+SSR,Earth,Medusa,Permanent,-,Melee,-,Primal,-,Attack,https://gbf.wiki/Medusa_(Promo)
+SSR,Earth,Nemone,Permanent,-,Axe,Spear,Erune,-,Attack,https://gbf.wiki/Nemone
+SR,Wind,Helnar,Permanent,-,Sabre,-,Erune,-,Balanced,https://gbf.wiki/Helnar
+SR,Wind,Meteon,Permanent,-,Gun,-,Human,-,Special,https://gbf.wiki/Meteon_(Event)
+SR,Wind,Mikasa,Tie-In / Collab,-,Sabre,Katana,Human,-,Attack,https://gbf.wiki/Mikasa
+SR,Wind,Selfira,Permanent,-,Harp,-,Erune,-,Heal,https://gbf.wiki/Selfira_(Event)
+SR,Wind,Spinnah,Holiday,-,Dagger,-,Human,-,Attack,https://gbf.wiki/Spinnah_(Holiday)
+R,Wind,Spinnah,Permanent,-,Dagger,-,Human,-,Attack,https://gbf.wiki/Spinnah
+SSR,Light,Conan Edogawa,Tie-In / Collab,-,Gun,Melee,Human,-,Special,https://gbf.wiki/Conan_Edogawa
+SR,Light,Feather,Permanent,-,Melee,-,Human,-,Attack,https://gbf.wiki/Feather_(SR)
+SR,Light,Jeanne d'Arc,Permanent,-,Sabre,-,Human,-,Special,https://gbf.wiki/Jeanne_d%27Arc_(SR)
+SR,Light,Mirin,Permanent,-,Katana,-,Human,-,Attack,https://gbf.wiki/Mirin_(Light)
+SR,Light,Nicholas,Permanent,-,Katana,-,Human,-,Balanced,https://gbf.wiki/Nicholas_(Event)
+SR,Light,Sevilbarra,Permanent,-,Katana,-,Harvin,-,Attack,https://gbf.wiki/Sevilbarra_(Event)
+SR,Light,Vermeil,Permanent,-,Sabre,-,Harvin,-,Balanced,https://gbf.wiki/Vermeil_(SR)
+SR,Light,Zeta,Permanent,-,Spear,-,Human,-,Attack,https://gbf.wiki/Zeta_(Event)
+SR,Dark,Arulumaya,Yukata,-,Staff,-,Harvin,-,Special,https://gbf.wiki/Arulumaya_(Yukata)
+SR,Dark,Elize Lutus,Tie-In / Collab,-,Staff,-,Human,-,Special,https://gbf.wiki/Elize_Lutus
+SR,Dark,Feather,Halloween,-,Melee,-,Human,-,Attack,https://gbf.wiki/Feather_(Halloween)
+SR,Dark,Meg,Permanent,-,Dagger,Melee,Human,-,Attack,https://gbf.wiki/Meg_(Event)
+SR,Dark,Predator,Permanent,-,Melee,-,Human,-,Attack,https://gbf.wiki/Predator
+SR,Dark,Richard,Permanent,-,Gun,-,Human,-,Special,https://gbf.wiki/Richard_(SR)
+SSR,Dark,Sarunan,Permanent,-,Staff,-,Erune,-,Special,https://gbf.wiki/Sarunan_(Dark)
+SR,Dark,Shao,Permanent,-,Staff,-,Erune,-,Special,https://gbf.wiki/Shao
+SR,Dark,Vania,Permanent,-,Staff,-,Other,-,Special,https://gbf.wiki/Vania_(SR)
+SR,Dark,Will,Permanent,-,Sabre,Staff,Human,-,Balanced,https://gbf.wiki/Will_(SR)
+SR,Dark,Wulf and Renie,Halloween,-,Melee,Gun,Other,-,Defense,https://gbf.wiki/Wulf_and_Renie_(Halloween)
+SR,Dark,You,Permanent,-,Melee,-,Erune,-,Attack,https://gbf.wiki/You_(Event)
+SR,Fire,Aster,Permanent,-,Bow,-,Erune,-,Special,https://gbf.wiki/Aster
+SR,Fire,Gemini Sunrise,Tie-In / Collab,-,Katana,Gun,Human,-,Attack,https://gbf.wiki/Gemini_Sunrise
+SR,Fire,Grea,Permanent,-,Melee,-,Other,-,Attack,https://gbf.wiki/Grea_(Event)
+SR,Fire,Izuminokami Kanesada,Tie-In / Collab,-,Katana,-,Other,-,Attack,https://gbf.wiki/Izuminokami_Kanesada
+SR,Fire,Lina,Tie-In / Collab,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Lina
+SR,Fire,Miria Akagi,Tie-In / Collab,-,Staff,-,Human,-,Special,https://gbf.wiki/Miria_Akagi
+SR,Fire,Naoise,Permanent,-,Spear,-,Human,-,Defense,https://gbf.wiki/Naoise_(Event)
+SSR,Fire,Nina Drango,Permanent,-,Melee,-,Other,-,Attack,https://gbf.wiki/Nina_Drango
+SR,Water,Aliza,Permanent,-,Melee,-,Draph,-,Attack,https://gbf.wiki/Aliza_(Water)
+SR,Water,Cailana,Permanent,-,Melee,-,Erune,-,Attack,https://gbf.wiki/Cailana_(SR)
+SR,Water,Charlotta,Summer,-,Sabre,-,Harvin,-,Balanced,https://gbf.wiki/Charlotta_(Summer)
+SR,Water,Io,Permanent,-,Staff,-,Human,-,Heal,https://gbf.wiki/Io
+SR,Water,Joel,Permanent,-,Melee,-,Human,-,Heal,https://gbf.wiki/Joel_(SR)
+SR,Water,Lily,Permanent,-,Staff,-,Other,-,Heal,https://gbf.wiki/Lily_(Event)
+SR,Water,Lowain,Permanent,-,Dagger,-,Erune,-,Special,https://gbf.wiki/Lowain_(Event)
+SR,Water,Mina,Permanent,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Mina
+SR,Earth,Almeida,Summer,-,Axe,-,Draph,-,Attack,https://gbf.wiki/Almeida_(Summer)
+SR,Earth,Beatrix,Permanent,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Beatrix_(SR)
+SR,Earth,Galadar,Permanent,-,Axe,-,Draph,-,Defense,https://gbf.wiki/Galadar_(SR)
+SR,Earth,Jin,Permanent,-,Katana,-,Human,-,Attack,https://gbf.wiki/Jin_(Ronin)
+SR,Earth,Mahira,Zodiac,-,Harp,-,Harvin,-,Special,https://gbf.wiki/Mahira_(Event)
+SR,Earth,Razia,Permanent,-,Spear,Gun,Draph,-,Defense,https://gbf.wiki/Razia_(SR)
+SR,Earth,Sara,Summer,-,Melee,-,Human,-,Defense,https://gbf.wiki/Sara_(Summer)
+SR,Earth,Soriz,Permanent,-,Melee,-,Human,-,Attack,https://gbf.wiki/Soriz
+SR,Earth,The Lowain Bros,Permanent,-,Dagger,Sabre,Erune,-,Special,https://gbf.wiki/The_Lowain_Bros
+SR,Wind,Charlotta,Permanent,-,Sabre,-,Harvin,-,Defense,https://gbf.wiki/Charlotta_(Event)
+SR,Wind,Krugne,Permanent,-,Staff,-,Erune,-,Special,https://gbf.wiki/Krugne_(SR)
+SR,Wind,Miku Maekawa,Tie-In / Collab,-,Melee,-,Human,-,Attack,https://gbf.wiki/Miku_Maekawa
+SR,Wind,Mimlemel and Stumpeye,Permanent,-,Melee,-,Harvin,-,Attack,https://gbf.wiki/Mimlemel_and_Stumpeye
+SR,Wind,Sen,Holiday,-,Melee,-,Erune,-,Attack,https://gbf.wiki/Sen_(Holiday)
+SR,Wind,Sevastien,Permanent,-,Sabre,-,Erune,-,Balanced,https://gbf.wiki/Sevastien
+SR,Wind,Shiki Ichinose,Tie-In / Collab,-,Staff,-,Human,-,Special,https://gbf.wiki/Shiki_Ichinose
+SR,Wind,Sutera,Permanent,-,Bow,-,Erune,-,Balanced,https://gbf.wiki/Sutera
+SR,Wind,Yuisis,Yukata,-,Sabre,Katana,Erune,-,Balanced,https://gbf.wiki/Yuisis_(Yukata)
+SR,Light,Albert,Permanent,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Albert_(Event)
+SR,Light,Arusha,Permanent,-,Staff,-,Erune,-,Balanced,https://gbf.wiki/Arusha
+SR,Light,Bridgette and Cordelia,Permanent,-,Sabre,Spear,Harvin,Human,Balanced,https://gbf.wiki/Bridgette_and_Cordelia
+SR,Light,Erica Fontaine,Tie-In / Collab,-,Gun,-,Human,-,Heal,https://gbf.wiki/Erica_Fontaine
+SR,Light,Feena,Holiday,-,Bow,-,Human,-,Attack,https://gbf.wiki/Feena_(Holiday)
+SR,Light,Kumbhira,Zodiac,-,Spear,Axe,Draph,-,Attack,https://gbf.wiki/Kumbhira_(Event)
+SR,Light,Naoise,Permanent,-,Spear,-,Human,-,Defense,https://gbf.wiki/Naoise_(Promo)
+SR,Light,Noa,Permanent,-,Staff,-,Primal,-,Special,https://gbf.wiki/Noa
+SR,Light,Sophia,Permanent,-,Staff,-,Human,-,Heal,https://gbf.wiki/Sophia_(SR)
+SR,Light,Tear Grants,Tie-In / Collab,-,Staff,-,Human,-,Balanced,https://gbf.wiki/Tear_Grants
+SR,Light,Tyre,Yukata,-,Sabre,Gun,Human,-,Balanced,https://gbf.wiki/Tyre_(Yukata)
+SR,Dark,Danua,Permanent,-,Dagger,-,Draph,-,Special,https://gbf.wiki/Danua
+SR,Dark,Deliford,Permanent,-,Spear,-,Human,-,Defense,https://gbf.wiki/Deliford_(SR)
+SR,Dark,Jamil,Permanent,-,Dagger,-,Human,-,Attack,https://gbf.wiki/Jamil_(Dark)
+SR,Dark,Mika Jougasaki,Tie-In / Collab,-,Dagger,-,Human,-,Special,https://gbf.wiki/Mika_Jougasaki
+SR,Dark,Olivia,Summer,-,Sabre,-,Primal,-,Balanced,https://gbf.wiki/Olivia_(Event)
+SR,Dark,Zaja,Permanent,-,Axe,-,Draph,-,Defense,https://gbf.wiki/Zaja
+SR,Fire,Abby,Permanent,-,Axe,-,Human,-,Attack,https://gbf.wiki/Abby_(Promo)
+SR,Fire,Alec,Permanent,-,Melee,-,Human,-,Attack,https://gbf.wiki/Alec
+SR,Fire,Aliza,Permanent,-,Melee,-,Draph,-,Attack,https://gbf.wiki/Aliza_(Event)
+SR,Fire,Barawa,Permanent,-,Gun,-,Draph,-,Attack,https://gbf.wiki/Barawa_(Event)
+SR,Fire,Carren,Permanent,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Carren
+SR,Fire,Carren,Summer,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Carren_(Event)
+SR,Fire,Cassius,Yukata,-,Melee,Spear,Other,-,Balanced,https://gbf.wiki/Cassius_(Yukata)
+SR,Fire,Cucouroux,Permanent,-,Gun,-,Human,-,Attack,https://gbf.wiki/Cucouroux
+SR,Fire,Ghandagoza,Summer,-,Melee,-,Draph,-,Attack,https://gbf.wiki/Ghandagoza_(Summer)
+SR,Fire,Karin,Tie-In / Collab,-,Melee,-,Human,-,Attack,https://gbf.wiki/Karin
+SR,Fire,Lucius,Permanent,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Lucius_(Fire)
+SR,Fire,Mio Honda,Tie-In / Collab,-,Gun,-,Human,-,Balanced,https://gbf.wiki/Mio_Honda
+SR,Fire,Percival,Permanent,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Percival_(Event)
+SR,Fire,Rika Jougasaki,Tie-In / Collab,-,Spear,-,Human,-,Attack,https://gbf.wiki/Rika_Jougasaki
+SR,Fire,Rosine,Permanent,-,Gun,-,Human,-,Heal,https://gbf.wiki/Rosine_(SR)
+SR,Fire,Sen,Permanent,-,Melee,-,Erune,-,Attack,https://gbf.wiki/Sen
+SR,Fire,Sutera,Permanent,-,Bow,-,Erune,-,Balanced,https://gbf.wiki/Sutera_(Event)
+SR,Fire,Teena,Valentine,-,Staff,-,Human,-,Balanced,https://gbf.wiki/Teena_(Valentine)
+SR,Fire,Teena,Permanent,-,Staff,-,Human,-,Heal,https://gbf.wiki/Teena
+SR,Fire,Therese,Permanent,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Therese
+SR,Fire,Zooey,Permanent,-,Spear,-,Primal,-,Special,https://gbf.wiki/Zooey_(Event)
+SR,Water,Anastasia,Tie-In / Collab,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Anastasia
+SR,Water,Ange,Permanent,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Ange
+SR,Water,Camieux,Summer,-,Gun,-,Draph,-,Special,https://gbf.wiki/Camieux_(Summer)
+SR,Water,Chun-Li,Tie-In / Collab,-,Melee,-,Human,-,Attack,https://gbf.wiki/Chun-Li
+SR,Water,Diantha,Permanent,-,Harp,-,Human,-,Special,https://gbf.wiki/Diantha_(Promo)
+SR,Water,Erin,Permanent,-,Staff,-,Other,-,Heal,https://gbf.wiki/Erin
+SR,Water,Farrah,Summer,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Farrah_(Summer)
+SR,Water,Mizuki Kawashima,Tie-In / Collab,-,Staff,-,Human,-,Heal,https://gbf.wiki/Mizuki_Kawashima
+SR,Water,Naga,Tie-In / Collab,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Naga
+SR,Water,Rin Shibuya,Tie-In / Collab,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Rin_Shibuya
+SR,Water,Sahli Lao,Permanent,-,Bow,-,Harvin,-,Balanced,https://gbf.wiki/Sahli_Lao
+SR,Water,Sig,Permanent,-,Sabre,Spear,Human,-,Attack,https://gbf.wiki/Sig
+SR,Water,Suframare,Summer,-,Staff,-,Harvin,-,Special,https://gbf.wiki/Suframare_(Summer)
+SR,Water,Ulamnuran,Permanent,-,Spear,-,Harvin,-,Special,https://gbf.wiki/Ulamnuran
+SR,Water,Yuel,Permanent,-,Katana,Harp,Erune,-,Balanced,https://gbf.wiki/Yuel_(Event)
+SR,Earth,Airi Totoki,Tie-In / Collab,-,Sabre,-,Human,-,Defense,https://gbf.wiki/Airi_Totoki
+SR,Earth,Almeida,Permanent,-,Axe,-,Draph,-,Attack,https://gbf.wiki/Almeida
+SR,Earth,Anzu Futaba,Tie-In / Collab,-,Gun,-,Human,-,Special,https://gbf.wiki/Anzu_Futaba
+SR,Earth,Cain,Permanent,-,Katana,-,Human,-,Special,https://gbf.wiki/Cain
+SR,Earth,Catherine,Permanent,-,Gun,-,Erune,-,Special,https://gbf.wiki/Catherine_(SR)
+SR,Earth,Eugen,Permanent,-,Gun,-,Human,-,Balanced,https://gbf.wiki/Eugen
+SR,Earth,Herja,Permanent,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Herja_(SR)
+SR,Earth,Jessica,Permanent,-,Gun,-,Human,-,Special,https://gbf.wiki/Jessica
+SR,Earth,Jin,Summer,-,Katana,-,Human,-,Heal,https://gbf.wiki/Jin_(Summer)
+SR,Earth,Jin,Permanent,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Jin_(Event)
+SR,Earth,J.J.,Summer,-,Harp,-,Human,-,Special,https://gbf.wiki/J.J._(Summer)
+SR,Earth,La Coiffe,Permanent,-,Sabre,-,Erune,-,Heal,https://gbf.wiki/La_Coiffe_(SR)
+SR,Earth,Ladiva,Permanent,-,Melee,-,Draph,-,Attack,https://gbf.wiki/Ladiva
+SR,Earth,Lamretta,Permanent,-,Staff,-,Draph,-,Balanced,https://gbf.wiki/Lamretta
+SR,Earth,Leona,Permanent,-,Spear,-,Human,-,Attack,https://gbf.wiki/Leona
+SR,Earth,Mimlemel and Pun-Kin,Halloween,-,Harp,Melee,Harvin,-,Attack,https://gbf.wiki/Mimlemel_and_Pun-Kin_(Halloween)
+SR,Earth,Redluck,Permanent,-,Melee,-,Draph,-,Special,https://gbf.wiki/Redluck
+SR,Earth,Vanzza,Permanent,-,Melee,-,Draph,-,Attack,https://gbf.wiki/Vanzza_(SR)
+SR,Earth,Zaja,Halloween,-,Axe,-,Draph,-,Defense,https://gbf.wiki/Zaja_(Halloween)
+SR,Wind,Andira,Zodiac,-,Staff,-,Erune,-,Balanced,https://gbf.wiki/Andira_(Event)
+SR,Wind,Arisa,Tie-In / Collab,-,Bow,-,Other,-,Balanced,https://gbf.wiki/Arisa
+SR,Wind,Arthur,Permanent,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Arthur_(Event)
+SR,Wind,Arthur and Mordred,Permanent,-,Sabre,-,Human,Erune,Balanced,https://gbf.wiki/Arthur_and_Mordred
+SR,Wind,Chloe,Summer,-,Melee,-,Erune,-,Special,https://gbf.wiki/Chloe_(Summer)
+SR,Wind,Feena,Permanent,-,Bow,-,Human,-,Balanced,https://gbf.wiki/Feena_(Event)
+SR,Wind,Goblin Mage,Permanent,-,Staff,-,Other,-,Special,https://gbf.wiki/Goblin_Mage
+SR,Wind,Hazen,Permanent,-,Staff,Melee,Human,-,Heal,https://gbf.wiki/Hazen_(SR)
+SR,Wind,Joy,Permanent,-,Melee,Gun,Other,-,Special,https://gbf.wiki/Joy_(Event)
+SR,Wind,Karteira,Permanent,-,Melee,-,Erune,-,Special,https://gbf.wiki/Karteira_(SR)
+SR,Wind,Keehar,Permanent,-,Bow,-,Erune,-,Balanced,https://gbf.wiki/Keehar
+SR,Wind,Korwa,Fantasy,-,Sabre,-,Erune,-,Balanced,https://gbf.wiki/Korwa_(SR)
+SR,Wind,Mimlemel,Permanent,-,Harp,-,Harvin,-,Special,https://gbf.wiki/Mimlemel
+SR,Wind,Rashid,Tie-In / Collab,-,Melee,-,Human,-,Attack,https://gbf.wiki/Rashid
+SR,Wind,Tōru Amuro,Tie-In / Collab,-,Melee,-,Human,-,Attack,https://gbf.wiki/T%C5%8Dru_Amuro
+SR,Wind,Tsubasa Kashiwagi,Tie-In / Collab,-,Gun,-,Human,-,Balanced,https://gbf.wiki/Tsubasa_Kashiwagi
+SR,Wind,Tyre,Permanent,-,Sabre, gun,Human,-,Special,https://gbf.wiki/Tyre
+SR,Light,Amira,Permanent,-,Melee,-,Other,-,Attack,https://gbf.wiki/Amira_(Promo)
+SR,Light,Amira,Permanent,-,Melee,-,Other,-,Attack,https://gbf.wiki/Amira_(Promo)
+SR,Light,Baotorda,Permanent,-,Sabre,-,Draph,-,Defense,https://gbf.wiki/Baotorda
+SR,Light,Barawa,Permanent,-,Gun,-,Draph,-,Attack,https://gbf.wiki/Barawa_(SR)
+SR,Light,Ceylan,Permanent,-,Staff,-,Erune,-,Heal,https://gbf.wiki/Ceylan_(Event)
+SR,Light,Ezecrain,Permanent,-,Melee,-,Human,-,Special,https://gbf.wiki/Ezecrain_(Event)
+SR,Light,Johann,Permanent,-,Staff,-,Human,-,Heal,https://gbf.wiki/Johann
+SR,Light,Philosophia,Permanent,-,Staff,Melee,Harvin,-,Special,https://gbf.wiki/Philosophia_(SR)
+SR,Light,Rosamia,Permanent,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Rosamia_(SR)
+SR,Light,Uzuki Shimamura,Tie-In / Collab,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Uzuki_Shimamura
+SR,Dark,Cagliostro,Permanent,-,Staff,-,Human,-,Heal,https://gbf.wiki/Cagliostro_(Event)
+SR,Dark,Cassius,Permanent,-,Melee,Spear,Other,-,Balanced,https://gbf.wiki/Cassius_(Event)
+SR,Dark,Koume Shirasaka,Tie-In / Collab,-,Staff,-,Human,-,Special,https://gbf.wiki/Koume_Shirasaka
+SR,Dark,Lucius,Permanent,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Lucius
+SR,Dark,Randall,Permanent,-,Melee,-,Human,-,Attack,https://gbf.wiki/Randall_(SR)
+SR,Dark,Ranko Kanzaki,Tie-In / Collab,-,Staff,-,Human,-,Attack,https://gbf.wiki/Ranko_Kanzaki
+SR,Dark,Tanya,Permanent,-,Dagger,-,Human,-,Attack,https://gbf.wiki/Tanya_(SR)
+SR,Dark,Tanya,Summer,-,Dagger,-,Human,-,Balanced,https://gbf.wiki/Tanya_(Summer)
+SR,Fire,Anila,Zodiac,-,Spear,-,Draph,-,Special,https://gbf.wiki/Anila_(Event)
+SR,Fire,Blazing Teacher Elmott,Permanent,-,Staff,-,Erune,-,Balanced,https://gbf.wiki/Blazing_Teacher_Elmott
+SR,Fire,Cecile,Permanent,-,Harp,-,Erune,-,Special,https://gbf.wiki/Cecile
+R,Fire,Dante,Permanent,-,Staff,-,Human,-,Attack,https://gbf.wiki/Dante
+SR,Fire,Elmott,Summer,-,Staff,-,Erune,-,Attack,https://gbf.wiki/Elmott_(Summer)
+SR,Fire,Ippatsu,Permanent,-,Melee,-,Human,-,Special,https://gbf.wiki/Ippatsu_(SR)
+SR,Fire,Jessica,Permanent,-,Gun,-,Human,-,Balanced,https://gbf.wiki/Jessica_(Event)
+SR,Fire,Karva,Permanent,-,Gun,-,Draph,-,Special,https://gbf.wiki/Karva_(SR)
+SR,Fire,Mary,Permanent,-,Gun,-,Human,-,Balanced,https://gbf.wiki/Mary_(SR)
+SR,Fire,Milla Maxwell,Tie-In / Collab,-,Sabre,-,Other,-,Attack,https://gbf.wiki/Milla_Maxwell
+SR,Fire,Rackam,Permanent,-,Gun,-,Human,-,Special,https://gbf.wiki/Rackam
+SR,Fire,Reinhardtzar,Permanent,-,Melee,-,Draph,-,Attack,https://gbf.wiki/Reinhardtzar
+SR,Fire,Ryan,Permanent,-,Axe,-,Human,-,Attack,https://gbf.wiki/Ryan_(SR)
+SR,Fire,Stahn Aileron,Tie-In / Collab,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Stahn_Aileron
+SR,Water,Kaoru Sakuraba,Tie-In / Collab,-,Dagger,-,Human,-,Special,https://gbf.wiki/Kaoru_Sakuraba
+SR,Water,Lamretta,Permanent,-,Melee,-,Draph,-,Special,https://gbf.wiki/Lamretta_(Water)
+SR,Water,Lancelot,Permanent,-,Sabre,Dagger,Human,-,Attack,https://gbf.wiki/Lancelot_(Event)
+SR,Water,Lilele,Summer,-,Harp,-,Harvin,-,Special,https://gbf.wiki/Lilele_(Summer)
+SR,Water,Milleore,Permanent,-,Bow,-,Harvin,-,Balanced,https://gbf.wiki/Milleore
+SR,Water,Mishra,Permanent,-,Staff,-,Erune,-,Special,https://gbf.wiki/Mishra
+SR,Water,Pamela,Permanent,-,Harp,-,Human,-,Special,https://gbf.wiki/Pamela
+SR,Water,Pengy,Permanent,-,Gun,Melee,Human,-,Defense,https://gbf.wiki/Pengy
+SR,Water,Vane,Permanent,-,Spear, axe,Human,-,Defense,https://gbf.wiki/Vane
+SR,Water,Vane,Permanent,-,Spear, axe,Human,-,Defense,https://gbf.wiki/Vane_(Event)
+SR,Earth,Augusta,Permanent,-,Harp,-,Draph,-,Special,https://gbf.wiki/Augusta
+SR,Earth,Carmelina,Permanent,-,Dagger,-,Draph,-,Special,https://gbf.wiki/Carmelina_(SR)
+SR,Earth,Claudia,Permanent,-,Melee,-,Human,-,Attack,https://gbf.wiki/Claudia
+SR,Earth,Eugen,Summer,-,Gun,-,Human,-,Attack,https://gbf.wiki/Eugen_(Summer)
+SR,Earth,Juri,Permanent,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Juri_(Event)
+SR,Earth,Kanako Mimura,Tie-In / Collab,-,Staff,-,Human,-,Heal,https://gbf.wiki/Kanako_Mimura
+SR,Earth,Laguna,Permanent,-,Spear,-,Draph,-,Special,https://gbf.wiki/Laguna
+SR,Earth,Mariah,Permanent,-,Spear,-,Human,-,Attack,https://gbf.wiki/Mariah
+SR,Earth,Rackam,Holiday,-,Gun,-,Human,-,Special,https://gbf.wiki/Rackam_(Holiday)
+SR,Earth,Skull,Permanent,-,Gun,-,Harvin,-,Attack,https://gbf.wiki/Skull_(Event)
+SR,Earth,Yamanbagiri Kunihiro,Tie-In / Collab,-,Katana,-,Other,-,Special,https://gbf.wiki/Yamanbagiri_Kunihiro
+SR,Wind,Eso,Permanent,-,Axe,-,Human,-,Balanced,https://gbf.wiki/Eso_(SR)
+SR,Wind,Farrah,Permanent,-,Sabre,-,Human,-,Defense,https://gbf.wiki/Farrah_(Event)
+SR,Wind,Helnar,Summer,-,Sabre,-,Erune,-,Special,https://gbf.wiki/Helnar_(Summer)
+SR,Wind,Jin,Summer,-,Katana,-,Human,-,Balanced,https://gbf.wiki/Jin_(Wind)
+SR,Wind,Lecia,Summer,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Lecia_(Summer)
+SR,Wind,Robertina,Permanent,-,Harp,-,Harvin,-,Special,https://gbf.wiki/Robertina
+SR,Wind,Ryu,Tie-In / Collab,-,Melee,-,Human,-,Attack,https://gbf.wiki/Ryu
+SR,Wind,Sakura Shinguji,Tie-In / Collab,-,Katana,-,Human,-,Balanced,https://gbf.wiki/Sakura_Shinguji
+SR,Light,Daetta,Permanent,-,Axe,-,Draph,-,Attack,https://gbf.wiki/Daetta_(SR)
+SR,Light,Elta,Permanent,-,Harp,-,Human,-,Special,https://gbf.wiki/Elta_(Light)
+SR,Light,Ferry,Halloween,-,Dagger,-,Erune,-,Special,https://gbf.wiki/Ferry_(Halloween)
+SR,Light,Johann,Permanent,-,Staff,-,Human,-,Heal,https://gbf.wiki/Johann_(Event)
+SR,Light,Ladiva,Holiday,-,Melee,-,Draph,-,Attack,https://gbf.wiki/Ladiva_(Holiday)
+SR,Light,Nakoruru,Tie-In / Collab,-,Katana,-,Human,-,Attack,https://gbf.wiki/Nakoruru
+SR,Light,Novei,Permanent,-,Harp,-,Human,-,Special,https://gbf.wiki/Novei
+SR,Light,Sophie,Tie-In / Collab,-,Melee,-,Other,-,Attack,https://gbf.wiki/Sophie
+SR,Light,Soriz,Permanent,-,Melee,-,Human,-,Defense,https://gbf.wiki/Soriz_(Event)
+SR,Dark,Luna,Tie-In / Collab,-,Staff,-,Human,-,Special,https://gbf.wiki/Luna
+SR,Dark,Stan,Permanent,-,Sabre,-,Erune,-,Balanced,https://gbf.wiki/Stan_(Event)
+SR,Dark,Yuri Lowell,Tie-In / Collab,-,Katana,-,Human,-,Attack,https://gbf.wiki/Yuri_Lowell
+SR,Dark,Zehek,Permanent,-,Dagger,-,Human,-,Balanced,https://gbf.wiki/Zehek_(Event)
+R,Any,Young Cat,Permanent,-,Melee,-,Other,-,Special,https://gbf.wiki/Young_Cat_(Event)
+SR,Fire,Anna,Permanent,-,Staff,-,Human,-,Attack,https://gbf.wiki/Anna_(SR)
+R,Fire,Barawa,Permanent,-,Gun,-,Draph,-,Attack,https://gbf.wiki/Barawa
+SR,Fire,Jessica,Summer,-,Gun,-,Human,-,Special,https://gbf.wiki/Jessica_(Summer)
+SR,Fire,Sarya,Permanent,-,Gun,-,Draph,-,Special,https://gbf.wiki/Sarya_(Event)
+SR,Fire,Teru Tendo,Tie-In / Collab,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Teru_Tendo
+R,Water,Cailana,Permanent,-,Melee,-,Erune,-,Attack,https://gbf.wiki/Cailana
+SR,Water,Romeo,Permanent,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Romeo_(Event)
+SR,Water,Sig,Permanent,-,Spear,-,Human,-,Attack,https://gbf.wiki/Sig_(Event)
+SR,Water,Therese,Permanent,-,Sabre,-,Human,-,Special,https://gbf.wiki/Therese_(Event)
+SR,Earth,Farrah,Permanent,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Farrah_(SR)
+SR,Earth,Paris,Permanent,-,Sabre,-,Human,-,Defense,https://gbf.wiki/Paris_(Event)
+SR,Wind,Aster,Permanent,-,Bow,-,Erune,-,Balanced,https://gbf.wiki/Aster_(Event)
+SR,Wind,Elta,Permanent,-,Harp,-,Human,-,Special,https://gbf.wiki/Elta
+SR,Wind,Haohmaru,Tie-In / Collab,-,Katana,-,Human,-,Attack,https://gbf.wiki/Haohmaru
+SR,Wind,Syr,Permanent,-,Dagger,-,Human,-,Special,https://gbf.wiki/Syr_(Event)
+SR,Light,Ferry,Permanent,-,Dagger,-,Erune,-,Special,https://gbf.wiki/Ferry
+SR,Light,J.J.,Permanent,-,Harp,-,Human,-,Special,https://gbf.wiki/J.J.
+SR,Light,Robomi,Permanent,-,Gun,-,Other,-,Special,https://gbf.wiki/Robomi_(Event)
+SR,Light,Sachiko Koshimizu,Tie-In / Collab,-,Axe,-,Human,-,Special,https://gbf.wiki/Sachiko_Koshimizu
+SR,Light,Sarya,Permanent,-,Gun,-,Draph,-,Special,https://gbf.wiki/Sarya
+SR,Dark,Ange,Halloween,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Ange_(Halloween)
+R,Dark,Lunalu,Summer,-,Staff,-,Harvin,-,Special,https://gbf.wiki/Lunalu_(Summer)
+R,Dark,Lunalu,Permanent,-,Staff,-,Harvin,-,Special,https://gbf.wiki/Lunalu
+SR,Dark,Narmaya,Valentine,-,Katana,-,Draph,-,Attack,https://gbf.wiki/Narmaya_(Valentine)
+SR,Dark,Vira,Permanent,-,Sabre,-,Human,-,Attack,https://gbf.wiki/Vira
+SR,Fire,Dorothy,Permanent,-,Gun,-,Human,-,Special,https://gbf.wiki/Dorothy
+SR,Fire,Elmott,Permanent,-,Staff,-,Erune,-,Attack,https://gbf.wiki/Elmott
+R,Fire,Ippatsu,Summer,-,Melee,-,Human,-,Special,https://gbf.wiki/Ippatsu_(Summer)
+R,Water,Bridgette,Permanent,-,Sabre,-,Harvin,-,Special,https://gbf.wiki/Bridgette
+SR,Water,Pengy,Permanent,-,Gun,-,Human,-,Defense,https://gbf.wiki/Pengy_(Event)
+R,Water,Randall,Permanent,-,Melee,-,Human,-,Attack,https://gbf.wiki/Randall
+R,Earth,Balurga,Permanent,-,Melee,-,Harvin,-,Attack,https://gbf.wiki/Balurga
+R,Earth,La Coiffe,Permanent,-,Sabre,-,Erune,-,Special,https://gbf.wiki/La_Coiffe
+SR,Earth,Volenna,Permanent,-,Sabre,-,Human,-,Defense,https://gbf.wiki/Volenna_(Event)
+R,Wind,Chloe,Permanent,-,Melee,-,Erune,-,Special,https://gbf.wiki/Chloe
+SR,Wind,Lecia,Permanent,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Lecia
+SR,Wind,Rosetta,Permanent,-,Dagger,-,Other,-,Balanced,https://gbf.wiki/Rosetta
+R,Wind,Thelonim,Permanent,-,Sabre,-,Erune,-,Special,https://gbf.wiki/Thelonim
+R,Light,Cordelia,Permanent,-,Sabre,-,Human,-,Defense,https://gbf.wiki/Cordelia
+R,Light,Vermeil,Permanent,-,Dagger,-,Harvin,-,Balanced,https://gbf.wiki/Vermeil
+R,Dark,Lowain,Permanent,-,Dagger,-,Erune,-,Attack,https://gbf.wiki/Lowain
+R,Fire,Drusilla,Permanent,-,Dagger,-,Harvin,-,Special,https://gbf.wiki/Drusilla
+R,Fire,Flesselles,Permanent,-,Bow,-,Erune,-,Balanced,https://gbf.wiki/Flesselles
+R,Fire,Ippatsu,Permanent,-,Melee,-,Human,-,Special,https://gbf.wiki/Ippatsu
+R,Fire,Karva,Permanent,-,Gun,-,Draph,-,Balanced,https://gbf.wiki/Karva
+R,Fire,Rosine,Permanent,-,Gun,-,Human,-,Heal,https://gbf.wiki/Rosine
+R,Water,Joel,Permanent,-,Melee,-,Human,-,Balanced,https://gbf.wiki/Joel
+R,Water,Suframare,Permanent,-,Staff,-,Harvin,-,Heal,https://gbf.wiki/Suframare
+R,Earth,Camieux,Permanent,-,Gun,-,Draph,-,Special,https://gbf.wiki/Camieux_(Earth)
+R,Earth,Galadar,Permanent,-,Axe,-,Draph,-,Defense,https://gbf.wiki/Galadar
+R,Earth,Volenna,Permanent,-,Sabre,-,Human,-,Defense,https://gbf.wiki/Volenna
+R,Wind,Karteira,Permanent,-,Melee,-,Erune,-,Special,https://gbf.wiki/Karteira
+R,Light,Daetta,Permanent,-,Axe,-,Draph,-,Attack,https://gbf.wiki/Daetta
+R,Light,Philosophia,Permanent,-,Staff,-,Harvin,-,Heal,https://gbf.wiki/Philosophia
+R,Dark,Lowain,Summer,-,Dagger,-,Erune,-,Attack,https://gbf.wiki/Lowain_(Summer)
+SR,Dark,Ludmila,Permanent,-,Gun,-,Harvin,-,Attack,https://gbf.wiki/Ludmila
+R,Fire,Anna,Permanent,-,Staff,-,Human,-,Attack,https://gbf.wiki/Anna
+R,Fire,Camieux,Permanent,-,Gun,-,Draph,-,Special,https://gbf.wiki/Camieux
+SR,Fire,Ezecrain,Permanent,-,Dagger,-,Human,-,Special,https://gbf.wiki/Ezecrain
+R,Fire,Mary,Summer,-,Gun,-,Human,-,Balanced,https://gbf.wiki/Mary_(Summer)
+R,Fire,Ryan,Permanent,-,Axe,-,Human,-,Attack,https://gbf.wiki/Ryan
+R,Fire,Viceroy,Permanent,-,Axe,-,Human,-,Special,https://gbf.wiki/Viceroy
+R,Water,Alistair,Permanent,-,Staff,-,Harvin,-,Special,https://gbf.wiki/Alistair
+R,Earth,Garma,Permanent,-,Gun,-,Draph,-,Balanced,https://gbf.wiki/Garma
+R,Earth,Herja,Permanent,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Herja
+R,Earth,Nene,Permanent,-,Melee,-,Human,-,Special,https://gbf.wiki/Nene
+R,Earth,Norcel,Permanent,-,Staff,-,Harvin,-,Special,https://gbf.wiki/Norcel
+SR,Earth,Sara,Permanent,-,Melee,-,Human,-,Defense,https://gbf.wiki/Sara_(Event)
+R,Earth,Vanzza,Permanent,-,Melee,-,Draph,-,Attack,https://gbf.wiki/Vanzza
+R,Wind,Petra,Permanent,-,Staff,-,Human,-,Heal,https://gbf.wiki/Petra
+R,Wind,Stan,Permanent,-,Sabre,-,Erune,-,Attack,https://gbf.wiki/Stan
+R,Light,Feather,Permanent,-,Melee,-,Human,-,Attack,https://gbf.wiki/Feather
+R,Light,Rosamia,Permanent,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Rosamia
+R,Dark,Bakura,Permanent,-,Harp,-,Draph,-,Balanced,https://gbf.wiki/Bakura
+SR,Dark,Rita,Permanent,-,Staff,-,Human,-,Special,https://gbf.wiki/Rita
+R,Dark,Tanya,Permanent,-,Dagger,-,Human,-,Balanced,https://gbf.wiki/Tanya
+R,Dark,Zehek,Permanent,-,Dagger,-,Human,-,Attack,https://gbf.wiki/Zehek
+R,Fire,Anna,Summer,-,Staff,-,Human,-,Attack,https://gbf.wiki/Anna_(Summer)
+R,Fire,Elmelaura,Permanent,-,Axe,-,Harvin,-,Special,https://gbf.wiki/Elmelaura
+R,Fire,Lamretta,Permanent,-,Staff,-,Draph,-,Special,https://gbf.wiki/Lamretta_(R)
+R,Fire,Mary,Permanent,-,Gun,-,Human,-,Balanced,https://gbf.wiki/Mary
+R,Water,Deliford,Permanent,-,Spear,-,Human,-,Defense,https://gbf.wiki/Deliford
+R,Water,Yodarha,Permanent,-,Sabre, katana,Harvin,-,Balanced,https://gbf.wiki/Yodarha
+R,Earth,Farrah,Permanent,-,Sabre,-,Human,-,Balanced,https://gbf.wiki/Farrah
+R,Earth,Jasmine,Permanent,-,Spear,-,Human,-,Heal,https://gbf.wiki/Jasmine
+R,Earth,Walder,Permanent,-,Dagger,-,Human,-,Balanced,https://gbf.wiki/Walder
+R,Earth,Walder,Summer,-,Dagger,-,Human,-,Balanced,https://gbf.wiki/Walder_(Summer)
+R,Earth,Walder,Holiday,-,Dagger,-,Human,-,Balanced,https://gbf.wiki/Walder_(Holiday)
+R,Wind,Eso,Permanent,-,Axe,-,Human,-,Attack,https://gbf.wiki/Eso
+R,Wind,Hazen,Permanent,-,Staff,Melee,Human,-,Defense,https://gbf.wiki/Hazen
+R,Wind,Leonora,Permanent,-,Dagger,-,Harvin,-,Balanced,https://gbf.wiki/Leonora
+R,Wind,Pavidus,Permanent,-,Dagger,-,Draph,-,Defense,https://gbf.wiki/Pavidus
+R,Dark,Will,Permanent,-,Sabre,Staff,Human,-,Special,https://gbf.wiki/Will
+R,Wind,Krugne,Permanent,-,Sabre,-,Erune,-,Special,https://gbf.wiki/Krugne
+R,Water,Richard,Permanent,-,Gun,-,Human,-,Special,https://gbf.wiki/Richard

@@ -8,8 +8,7 @@ This dataset is currently public on [Kaggle](https://www.kaggle.com/datasets/nya
 
 ## Built with
 - jupyter notebook
-- python 3.10.0
-  **IMPORTANT** (because otherwise the match statements will not work)
+- python 3.10.0 (**IMPORTANT** (because otherwise the match statements will not work))
 
 ## Overview
 This dataset includes the basic information for every character in the mobile / browser jrpg Granblue Fantasy. The data is scraped from [GBFwiki](https://gbf.wiki/Character_Tier_List/Gamewith/Ratings).

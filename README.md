@@ -15,14 +15,16 @@ This dataset includes the basic information for every character in the mobile / 
 
 Information includes:
 
-- **Rarity:** Rarity of character (SSR, SR, R)
-- **Element:** Element of character
-- **Name:** The name of the character
+- **ID:** Character ID in the GBFwiki.
+- **Rarity:** Rarity of character. (SSR, SR, R)
+- **Element:** Element of character.
+- **Name:** The name of the character.
 - **Series:** What series the character is part of (ex. "Summer" for summer limited characters.) Some characters are part of multiple series (ex. A character can be both "Summer" and "Zodiac"), which is what the **2nd Series** column is for.
 - **Weapon:** What weapon category the character uses. Some characters are considered to be using 2 weapons (ex. "Katana" and "Melee"), which is what the **2nd Weapon** column is for.
 - **Race:** What race the character is. (Human, Erune, Draph, etc.) Some units are considered multiple races due to having multiple characters as one unit.
 - **Type:** The character's play style. (Attack, Defense, etc.)
+- **URL:** The URL to the individual unit's detailed stat page.
 
 Any values with "-" are considered as empty or none.
 
-Please note: This dataset was made with the intention of web scraping practice, but also with a curiosity with how weapon types and elements correlate or the race distribution per element.
+Please note: This dataset was made with the intention of web scraping practice, but also with a curiosity with how weapon types and elements correlate or the race distribution per element, etc.

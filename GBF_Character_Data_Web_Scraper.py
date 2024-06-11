@@ -11,14 +11,24 @@
 #imports
 import requests
 import pandas as pd
+import re
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service as ChromeService
+from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
+from IPython.display import display
 
+#selenium driver since gbf wiki is now dynamic
+options = webdriver.ChromeOptions()
+options.headless = True
+options.binary_location = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=options)
 #character data url
-URL = "https://gbf.wiki/Character_Tier_List"
-page = requests.get(URL)
-soup = BeautifulSoup(page.content, "html.parser")
+URL = "https://gbf.wiki/Character_Tier_List/Gamewith/Ratings"
+driver.get(URL)
 
-#get data from tierlist
+soup = BeautifulSoup(driver.page_source, "html.parser")
+
 table_tier = soup.find('table', class_ = "wikitable tierlist tierlist-multi")
 td = table_tier.find_all('td')
 
@@ -71,12 +81,35 @@ def which_series(series_name):
         case default:
             return series_name.capitalize()
 
-def get_chara_page(short_id):
+def access_details(short_id):
     table_detail = soup.find('table', class_ = "wikitable tierlist-details")
     tr = table_detail.find_all('tr', attrs={'data-short-id':short_id})
+    return tr
+
+def get_chara_page(short_id):
+    #table_detail = soup.find('table', class_ = "wikitable tierlist-details")
+    #tr = table_detail.find_all('tr', attrs={'data-short-id':short_id})
+    tr = access_details(short_id)
     for k in tr:
         a = k.find('a')
         return(a['href'])
+
+def isfloat(value): 
+    try: 
+        return True, float(value) 
+    except ValueError: 
+        return False, value
+
+def get_rating(short_id):
+    tr = access_details(short_id)
+    for k in tr:
+        td = k.find_all('td')
+        for i in td:
+            number, rating = isfloat(i.text)
+            if number:
+                return rating
+            else:
+                continue
 
 #initliaize list of dicts
 list_of_charas = []
@@ -86,7 +119,7 @@ for i in td:
     item = i.find_all('span', attrs={"data-short-id": True})
     
     for j in item:            
-        name = [title['title'] for title in j.find_all('a')]
+        name = [img['alt'] for img in j.find_all('img')]
         series = is_multiple(j['data-filter-series'])
         wep = is_multiple(j['data-filter-weapon'])
         race = is_multiple(j['data-filter-race'])
@@ -96,6 +129,8 @@ for i in td:
         
         chara_info = {}
         #populate the character's dictionary
+        chara_info['ID'] = j['data-short-id']
+        chara_info['Rating'] = get_rating(j['data-short-id'])
         chara_info['Rarity'] = chara_rarity(j['data-short-id'][0])
         chara_info['Element'] = which_element(n) #call function to convert n to element
         chara_info['Name'] = name[0] #to just keep it as a string
@@ -128,6 +163,12 @@ for i in td:
     else:
         n = 0
 
-#dataframe of basic character data
+driver.quit()
+
 df = pd.DataFrame(list_of_charas)
-df.to_csv('GBF_character_dataset_test.csv', index=False)
+
+with pd.option_context('display.max_rows', None, 'display.max_columns', None):
+    display(df)
+
+df.to_csv('GBF_character_dataset.csv', index=False)
+

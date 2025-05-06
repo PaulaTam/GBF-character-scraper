@@ -10,7 +10,8 @@ This dataset is currently public on [Kaggle](https://www.kaggle.com/datasets/nya
 - jupyter notebook
 - python 3.10.0 (**IMPORTANT** (because otherwise the match statements will not work))
 - Selenium
-- BeautifulSoup
+- ~~BeautifulSoup~~
+- Selectolax
 - pandas
 
 ## Overview
@@ -26,6 +27,9 @@ Information includes:
 - **Weapon:** What weapon category the character uses. Some characters are considered to be using 2 weapons (ex. "Katana" and "Melee"), which is what the **2nd Weapon** column is for.
 - **Race:** What race the character is. (Human, Erune, Draph, etc.) Some units are considered multiple races due to having multiple characters as one unit.
 - **Type:** The character's play style. (Attack, Defense, etc.)
+- **HP**: The base max HP a unit has.
+- **ATK**: The base max ATK a unit has.
+- **VA**: The voice actor(s) of the unit.
 - **URL:** The URL to the individual unit's detailed stat page.
 
 Any values with "-" are considered as empty or none.
